@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://texmathpro.github.io/'
 languageCode = 'en-US'
-title = 'My New Hugo Site'
+title = 'TeXMathPro'
 
 [menus]
   [[menus.main]]
