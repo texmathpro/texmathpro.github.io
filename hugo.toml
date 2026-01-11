@@ -1,0 +1,4 @@
+baseURL = 'https://texmathpro.github.io/'
+languageCode = 'en-us'
+title = 'TeXMathPro'
+theme = 'hargo'
