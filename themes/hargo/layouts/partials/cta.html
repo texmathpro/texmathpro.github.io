@@ -1,0 +1,23 @@
+<!-- call to  action -->
+{{ if site.Data.homepage.cta.enable }}
+{{ with site.Data.homepage.cta }}
+<section class="py-4 bg-gradient position-relative">
+  {{ partial "image.html" (dict "Src" .overlayImage "Alt" "image" "Class" "img-fluid overlay-image") }}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-7">
+        <h2 class="text-white">{{ .title | markdownify }}</h2>
+        <p class="text-white">{{ .content | markdownify }}</p>
+        {{ with .button }}
+        <a href="{{ .link | absURL }}" class="btn btn-light">{{ .label }}</a>
+        {{ end }}
+      </div>
+      <div class="col-lg-4 col-md-5 position-relative">
+        {{ partial "image.html" (dict "Src" .image "Alt" "image" "Class" "cta-image") }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /call to action -->
