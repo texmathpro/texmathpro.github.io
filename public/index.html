@@ -1,67 +1,872 @@
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr">
+<html lang="en">
 <head>
-	<meta name="generator" content="Hugo 0.154.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<title>TeXMathPro</title>
-
-    <link rel="stylesheet" href="/css/main.css">
-
-
-      <script src="/js/main.js"></script>
-
-
-</head>
-<body>
-  <header>
-    <h1>TeXMathPro</h1>
-
-  <nav>
-    <ul>
-    <li>
-      <a aria-current="page" class="active" href="/">Home</a>
-    </li>
-    <li>
-      <a href="/posts/">Posts</a>
-    </li>
-    <li>
-      <a href="/tags/">Tags</a>
-    </li>
-    </ul>
-  </nav>
-
-
-  </header>
-  <main>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TeXMathPro Catalog</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
     
-  <p>Laborum voluptate pariatur ex culpa magna nostrud est incididunt fugiat
-pariatur do dolor ipsum enim. Consequat tempor do dolor eu. Non id id anim anim
-excepteur excepteur pariatur nostrud qui irure ullamco.</p>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="theme-color" content="#2c5282">
 
-  
-    <section>
-      <h2><a href="/posts/post-3/">Post 3</a></h2>
-      <p>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.</p>
-    </section>
-  
-    <section>
-      <h2><a href="/posts/post-2/">Post 2</a></h2>
-      <p>Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.</p>
-<p>Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.</p>
-    </section>
-  
-    <section>
-      <h2><a href="/posts/post-1/">Post 1</a></h2>
-      <p>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.</p>
-<p>Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.</p>
-    </section>
-  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0BXPTH0XNR"></script>
+    <script>
+      // Initialize dataLayer globally
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    </script>
 
-  </main>
-  <footer>
-    <p>Copyright 2026. All rights reserved.</p>
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f7fafc; }
+        .product-card { transition: all 0.3s ease; }
+        .product-card:hover { transform: translateY(-3px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); }
+        /* Custom scrollbar for filter sidebar to reflect brand aesthetic */
+        .custom-scrollbar::-webkit-scrollbar { width: 6px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #4a5568; border-radius: 3px; }
+        .custom-scrollbar::-webkit-scrollbar-track { background: #edf2f7; }
+        .filter-button { transition: background-color 0.15s; }
+        .active-filter { background-color: #2c5282 !important; color: white !important; font-weight: 600; }
+        /* FREEBIE specific style */
+        .freebie-card { border: 3px solid #f97316; } /* Orange border for emphasis */
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
 
-  </footer>
+    <div id="loading" class="fixed inset-0 bg-gray-50 flex flex-col items-center justify-center z-50">
+        <svg class="animate-spin -ml-1 mr-3 h-10 w-10 text-blue-800" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+        </svg>
+        <p class="mt-4 text-lg font-semibold text-gray-600">Loading TeXMathPro Catalog...</p>
+    </div>
+
+    <div id="error-message" class="hidden fixed inset-0 bg-red-100 flex items-center justify-center z-50 p-6">
+        <div class="bg-white p-6 rounded-lg shadow-xl border-2 border-red-500 max-w-lg">
+            <h2 class="text-xl font-bold text-red-700 mb-3">Data Loading Error</h2>
+            <p class="text-gray-700">The application could not retrieve data from the Google Sheet. Please ensure the sharing settings are set to "Anyone with the link can view."</p>
+            <p class="mt-3 text-sm text-red-500">Spreadsheet ID: 1LaJ0Hq7V-GPoCupAk-sm1i3e2k4cuEbRpo7eLKoJ9SQ</p>
+        </div>
+    </div>
+    
+    <div id="app" class="max-w-7xl mx-auto p-4 md:p-8 hidden">
+        
+        <header class="mb-8 border-b-4 border-blue-900 pb-6 bg-white rounded-b-xl shadow-lg relative">
+            <div class="flex flex-col md:flex-row justify-center items-center px-4 pt-4 md:px-8">
+                <div class="text-center mb-4 md:mb-0"> 
+                    <a href="#" onclick="clearAllFilters(event); return false;" class="inline-block hover:opacity-90 transition duration-150">
+                        <img src="https://i.imgur.com/kiFfMas.jpeg" 
+                             alt="TeXMathPro Logo - Aesthetics-Oriented Math Materials" 
+                             class="w-48 md:w-64 mx-auto h-auto"
+                             onerror="this.onerror=null; this.src='https://placehold.co/256x64/2C5282/ffffff?text=TeXMathPro'">
+                    </a>
+                    <p class="mt-2 text-md text-gray-600 max-w-3xl mx-auto font-semibold">Professional, publication-quality digital materials for high school Math teachers</p>
+                </div>
+            </div>
+        </header>
+
+        <div class="flex flex-col lg:flex-row gap-8">
+            
+            <aside id="filter-sidebar" class="w-full lg:w-64 bg-white p-6 rounded-xl shadow-lg h-full lg:sticky lg:top-8 custom-scrollbar">
+                <h2 class="text-2xl font-bold text-gray-800 mb-4 border-b pb-2">Filter Materials</h2>
+                
+                <div class="mb-6">
+                    <label for="search" class="block text-sm font-medium text-gray-700 mb-2">Search Keywords (Tags/Title)</label>
+                    <input type="text" id="search" placeholder="Search summative test, quiz, grade 8..." class="w-full p-2 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500">
+                </div>
+                
+                <div class="space-y-6">
+                    <div id="filter-grade-level">
+                        <h3 class="font-semibold text-lg text-blue-700 mb-3">Grade Level</h3>
+                        </div>
+
+                    <div id="filter-topic">
+                        <h3 class="font-semibold text-lg text-blue-700 mb-3">Topic</h3>
+                        </div>
+
+                    <div id="filter-product-type">
+                        <h3 class="font-semibold text-lg text-blue-700 mb-3">Resource Type</h3>
+                        </div>
+                </div>
+                
+                <button id="clear-filters" class="w-full mt-6 py-2 px-4 bg-gray-500 text-white font-semibold rounded-lg shadow hover:bg-gray-600 transition duration-150">
+                    Clear All Filters
+                </button>
+            </aside>
+
+            <main class="flex-1">
+                <div id="freebie-list" class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6 mb-8">
+                    </div>
+                <div id="product-list" class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
+                    </div>
+                
+                <div id="no-results" class="hidden text-center p-12 bg-white rounded-xl shadow-lg mt-8">
+                    <p class="text-2xl font-semibold text-gray-600">No materials matched your search or filters.</p>
+                    <p class="mt-2 text-gray-500">Try adjusting your filters or clearing your search term.</p>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        // --- PWA SETUP: Manifest and Service Worker ---
+
+        // 1. PWA Manifest Data
+        const manifestData = {
+            name: "TeXMathPro Catalog",
+            short_name: "TeXMathPro",
+            description: "Publication-quality math materials catalog.",
+            start_url: ".",
+            display: "standalone",
+            background_color: "#f7fafc",
+            theme_color: "#2c5282",
+            icons: [
+                { src: "https://i.imgur.com/GnMzsoN.jpeg", sizes: "192x192", type: "image/jpeg" },
+                { src: "https://i.imgur.com/GnMzsoN.jpeg", sizes: "512x512", type: "image/jpeg" }
+            ]
+        };
+
+        // 2. Service Worker Logic (as a string)
+        const swScript = `
+            const CACHE_NAME = 'texmathpro-cache-v3'; 
+            const urlsToCache = [
+                '/',
+                'https://cdn.tailwindcss.com',
+                'https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap',
+                'https://i.imgur.com/kiFfMas.jpeg', // Logo
+                'https://i.imgur.com/GnMzsoN.jpeg' // Icon
+            ];
+
+            self.addEventListener('install', (event) => {
+              event.waitUntil(
+                caches.open(CACHE_NAME)
+                  .then((cache) => {
+                    console.log('SW: Opened cache, attempting to cache core assets.');
+                    return cache.addAll(urlsToCache).catch(err => {
+                        console.error('SW: Failed to cache some assets.', err);
+                    });
+                  })
+              );
+            });
+
+            // Ensure the SW takes control immediately
+            self.addEventListener('activate', (event) => {
+              event.waitUntil(self.clients.claim());
+              console.log('SW: Activated and claimed control of clients.');
+            });
+
+            self.addEventListener('fetch', (event) => {
+                // IMPORTANT: Do NOT cache the live spreadsheet data (docs.google.com/spreadsheets)
+                if (event.request.url.includes('docs.google.com/spreadsheets')) {
+                    return fetch(event.request);
+                }
+
+                // For static assets, try cache first, then network
+                event.respondWith(
+                    caches.match(event.request)
+                        .then((response) => {
+                            if (response) {
+                                return response;
+                            }
+                            return fetch(event.request);
+                        })
+                );
+            });
+        `;
+
+        // 3. PWA Registration Functions
+
+        function generateManifest() {
+            try {
+                const manifestBlob = new Blob([JSON.stringify(manifestData)], { type: 'application/json' });
+                const manifestURL = URL.createObjectURL(manifestBlob);
+                const linkElement = document.createElement('link');
+                linkElement.rel = 'manifest';
+                linkElement.href = manifestURL;
+                document.head.appendChild(linkElement);
+                console.log('PWA Manifest registered successfully.');
+            } catch (e) {
+                console.error('Failed to register PWA Manifest.', e);
+            }
+        }
+
+        function registerServiceWorker() {
+            if ('serviceWorker' in navigator) {
+                const swBlob = new Blob([swScript], { type: 'application/javascript' });
+                const swURL = URL.createObjectURL(swBlob);
+                
+                // Use { scope: '/' } for app-wide scope
+                navigator.serviceWorker.register(swURL, { scope: '/' }) 
+                .then((registration) => {
+                    console.log('Service Worker registered with scope:', registration.scope);
+                })
+                .catch((error) => {
+                    console.error('Service Worker registration failed:', error);
+                });
+            } else {
+                console.warn('Service Workers are not supported in this browser.');
+            }
+        }
+
+        // --- PWA TIMING FIX: REGISTER IMMEDIATELY ---
+        generateManifest();
+        registerServiceWorker(); 
+        // --- END PWA TIMING FIX ---
+
+
+        // --- APPLICATION LOGIC ---
+
+        // Global State
+        let allProducts = [];
+        // Global array for dynamic freebie products
+        let freebieProducts = []; 
+        
+        // Mapped filter fields for state management
+        const filterFieldMap = {
+            'grade': 'GradeLevel',
+            'topic': 'Topic',
+            'type': 'ProductType'
+        };
+
+        let state = {
+            searchQuery: '',
+            filters: {
+                ProductID: null, // NEW: Filter for a single product ID
+                GradeLevel: null,
+                Topic: null,
+                ProductType: null
+            }
+        };
+
+        // Configuration
+        const SPREADSHEET_ID = '1LaJ0Hq7V-GPoCupAk-sm1i3e2k4cuEbRpo7eLKoJ9SQ';
+        const GID = 0; 
+        const GOOGLE_VIZ_URL = `https://docs.google.com/spreadsheets/d/${SPREADSHEET_ID}/gviz/tq?tqx=out:json&gid=${GID}`;
+        
+        // GA4 Configuration - Measurement ID is now G-0BXPTH0XNR
+        const GA_MEASUREMENT_ID = 'G-0BXPTH0XNR'; 
+
+        // Utility to safely track events
+        function trackEvent(eventName, params = {}) {
+            // Check for gtag function existence and non-placeholder ID
+            if (typeof gtag === 'function' && GA_MEASUREMENT_ID !== 'G-XXXXXXXXXX') {
+                gtag('event', eventName, params);
+            }
+        }
+
+        // Utility function to format PHP currency
+        const formatCurrency = (amount) => {
+            if (typeof amount !== 'number' || isNaN(amount)) return '';
+            return '₱' + amount.toLocaleString('en-PH', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+        };
+
+        // Utility to safely retrieve a cell value, handling nulls and string conversion
+        const getCellValue = (row, columnIndex) => {
+            const cell = row.c[columnIndex];
+            if (!cell) return '';
+
+            if (cell.f !== undefined) return String(cell.f).trim();
+            if (cell.v !== undefined) {
+                if (typeof cell.v === 'boolean') return cell.v;
+                if (typeof cell.v === 'number' && cell.v !== null) return cell.v;
+                return String(cell.v).trim();
+            }
+            return '';
+        };
+        
+        // UTILITY: Finds the column index by checking common label variations.
+        const findColumnIndex = (cols, potentialLabels) => {
+            for (const label of potentialLabels) {
+                const index = cols.indexOf(label);
+                if (index !== -1) return index;
+            }
+            return -1;
+        };
+        
+        // UPDATED FUNCTION: Constructs a catalog URL filtered by the ProductID.
+        function buildProductFilterUrl(product) {
+            const baseUrl = window.location.origin + window.location.pathname;
+            const params = new URLSearchParams();
+
+            // Use 'id' as the parameter key for ProductID
+            if (product.ProductID) {
+                params.append('id', encodeURIComponent(product.ProductID));
+            }
+            
+            const queryString = params.toString();
+            return queryString ? `${baseUrl}?${queryString}` : baseUrl;
+        }
+
+
+        // UPDATED FUNCTION: Handles the Share Click event.
+        function handleShareClick(productId, event) {
+            event.preventDefault(); 
+            event.stopPropagation(); 
+
+            const shareButton = event.currentTarget;
+            
+            // 1. Find the product
+            const product = allProducts.find(p => p.ProductID === productId) || freebieProducts.find(p => p.ProductID === productId);
+            if (!product) {
+                console.error('Product not found for sharing:', productId);
+                return;
+            }
+            
+            // 2. Generate the ProductID URL
+            const linkToCopy = buildProductFilterUrl(product);
+            
+            // 3. Copy to clipboard
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(linkToCopy).then(() => {
+                    // 4. Visual Feedback
+                    const originalText = shareButton.innerHTML;
+                    
+                    // Simple text change for confirmation
+                    shareButton.innerHTML = '<span class="flex items-center"><svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Copied!</span>';
+                    shareButton.classList.remove('bg-gray-400', 'hover:bg-gray-500');
+                    shareButton.classList.add('bg-green-600', 'hover:bg-green-700');
+
+                    // 5. Revert after 2 seconds
+                    setTimeout(() => {
+                        shareButton.innerHTML = originalText;
+                        shareButton.classList.remove('bg-green-600', 'hover:bg-green-700');
+                        shareButton.classList.add('bg-gray-400', 'hover:bg-gray-500');
+                    }, 2000);
+                    
+                    // 6. GA Tracking
+                    trackEvent('share_product_id_copied', {
+                        product_id: productId, 
+                        shared_url: linkToCopy,
+                        method: 'clipboard_api'
+                    });
+                }).catch(err => {
+                    console.error('Could not copy text: ', err);
+                    alert(`Failed to copy link. Please manually copy: ${linkToCopy}`);
+                });
+            } else {
+                // Fallback for older browsers (less reliable)
+                const tempInput = document.createElement('input');
+                tempInput.value = linkToCopy;
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                document.execCommand('copy');
+                document.body.removeChild(tempInput);
+                alert(`Link copied: ${linkToCopy}`);
+                
+                trackEvent('share_product_id_copied', {
+                    product_id: productId,
+                    shared_url: linkToCopy,
+                    method: 'fallback_alert'
+                });
+            }
+        }
+        
+        // Expose the function globally so it can be called from the inline onclick attribute
+        window.handleShareClick = handleShareClick; 
+
+        // UPDATED FUNCTION: Parses URL parameters and updates the global state
+        function parseUrlFilters() {
+            const params = new URLSearchParams(window.location.search);
+            let hasFilters = false;
+            
+            // NEW: Handle ProductID parameter
+            const productId = params.get('id');
+            if (productId) {
+                state.filters.ProductID = decodeURIComponent(productId);
+                // Clear other filters when an ID is present to ensure only the product is shown
+                state.searchQuery = '';
+                state.filters.GradeLevel = null;
+                state.filters.Topic = null;
+                state.filters.ProductType = null;
+                hasFilters = true;
+                // Since an ID is present, we skip initialization of filter buttons initially
+                return true;
+            }
+
+
+            // 1. Handle Search Query
+            const search = params.get('search');
+            if (search) {
+                state.searchQuery = decodeURIComponent(search).toLowerCase().trim();
+                hasFilters = true;
+            }
+
+            // 2. Handle Category Filters
+            for (const paramKey in filterFieldMap) {
+                const stateKey = filterFieldMap[paramKey];
+                const value = params.get(paramKey);
+                if (value) {
+                    state.filters[stateKey] = decodeURIComponent(value);
+                    hasFilters = true;
+                }
+            }
+
+            // Return true if any filter was found in the URL
+            return hasFilters;
+        }
+
+
+        // Data Fetching and Processing
+        async function fetchProducts() {
+            try {
+                const response = await fetch(GOOGLE_VIZ_URL);
+                const text = await response.text();
+
+                const jsonString = text.substring(47, text.length - 2);
+                const data = JSON.parse(jsonString);
+
+                // Initialize GA config after data load (acts as a page view event)
+                if (typeof gtag === 'function' && GA_MEASUREMENT_ID !== 'G-XXXXXXXXXX') {
+                    // Send page view and configuration signal
+                    gtag('config', GA_MEASUREMENT_ID, {
+                        'page_title': 'Catalog Viewer',
+                        'page_path': '/',
+                        'send_page_view': true 
+                    });
+                }
+
+                if (!data || !data.table || !data.table.rows || data.table.rows.length === 0) {
+                     throw new Error('No data table found in sheet response.');
+                }
+
+                const cols = data.table.cols.map(c => c.label);
+                const rawProducts = []; // Temporarily hold ALL products
+                
+                // Parse URL parameters *before* initializing filters and rendering
+                const isProductIdFilterActive = parseUrlFilters(); 
+
+                // UPDATED headerMap: using findColumnIndex for flexibility
+                const headerMap = {
+                    ProductID: findColumnIndex(cols, ['ProductID', 'Product ID']),
+                    ProductTitle: findColumnIndex(cols, ['ProductTitle', 'Product Title', 'Title']),
+                    GradeLevel: findColumnIndex(cols, ['GradeLevel', 'Grade Level', 'Grade']),
+                    Topic: findColumnIndex(cols, ['Topic']), 
+                    ProductType: findColumnIndex(cols, ['ProductType', 'Product Type', 'Resource Type']), // Added Resource Type
+                    ShortDescription: findColumnIndex(cols, ['ShortDescription', 'Short Description', 'Description']),
+                    PricePHPRegular: findColumnIndex(cols, ['PricePHPRegular', 'Price PHP Regular', 'Price']),
+                    PricePHPDiscounted: findColumnIndex(cols, ['PricePHPDiscounted', 'Price PHP Discounted', 'Discounted Price']),
+                    IsDiscounted: findColumnIndex(cols, ['IsDiscounted', 'Is Discounted']),
+                    ProductPagePath: findColumnIndex(cols, ['ProductPagePath', 'Product Page Path']),
+                    FilePath: findColumnIndex(cols, ['FilePath', 'File Path']),
+                    ImageURL: findColumnIndex(cols, ['ImageURL', 'Image URL']),
+                    InStock: findColumnIndex(cols, ['InStock', 'In Stock']),
+                    Tags: findColumnIndex(cols, ['Tags'])
+                };
+                
+                data.table.rows.forEach(row => {
+                    // Check if essential columns were found
+                    if (headerMap.ProductTitle === -1 || headerMap.PricePHPRegular === -1 || headerMap.ProductPagePath === -1) {
+                         console.error("Missing essential column headers. Check your Google Sheet structure and ensure titles like 'ProductTitle', 'PricePHPRegular', and 'ProductPagePath' (or variations) exist.");
+                         return;
+                    }
+
+                    const isDiscountedRaw = getCellValue(row, headerMap.IsDiscounted);
+                    const regularPriceRaw = getCellValue(row, headerMap.PricePHPRegular);
+                    const discountedPriceRaw = getCellValue(row, headerMap.PricePHPDiscounted);
+                    
+                    const regularPrice = typeof regularPriceRaw === 'number' ? regularPriceRaw : parseFloat(regularPriceRaw) || 0;
+                    const discountedPrice = typeof discountedPriceRaw === 'number' ? discountedPriceRaw : parseFloat(discountedPriceRaw) || regularPrice;
+
+                    // UPDATED: Check for explicit IsDiscounted OR if the discounted price is 0.01 (the freebie marker)
+                    const isDiscounted = String(isDiscountedRaw).toLowerCase() === 'true' || discountedPrice === 0.01;
+
+
+                    if (getCellValue(row, headerMap.ProductTitle) && regularPrice > 0) {
+                         rawProducts.push({
+                            ProductID: getCellValue(row, headerMap.ProductID),
+                            ProductTitle: getCellValue(row, headerMap.ProductTitle),
+                            GradeLevel: getCellValue(row, headerMap.GradeLevel),
+                            Topic: getCellValue(row, headerMap.Topic),
+                            ProductType: getCellValue(row, headerMap.ProductType),
+                            ShortDescription: getCellValue(row, headerMap.ShortDescription),
+                            PricePHPRegular: regularPrice,
+                            PricePHPDiscounted: discountedPrice,
+                            IsDiscounted: isDiscounted,
+                            ProductPagePath: getCellValue(row, headerMap.ProductPagePath),
+                            FilePath: getCellValue(row, headerMap.FilePath),
+                            ImageURL: getCellValue(row, headerMap.ImageURL) || `https://placehold.co/400x300/4A5568/ffffff?text=${encodeURIComponent(getCellValue(row, headerMap.ProductTitle))}`,
+                            InStock: String(getCellValue(row, headerMap.InStock)).toLowerCase() === 'true',
+                            Tags: getCellValue(row, headerMap.Tags)
+                        });
+                    }
+                });
+
+                // Separate the first two products into freebieProducts
+                freebieProducts = rawProducts.slice(0, 2);
+                // The remaining products go into allProducts for filtering
+                allProducts = rawProducts.slice(2);
+                
+                // Initialize filters based on the *current* state (which might be the single product ID)
+                initFilters();
+                renderProducts();
+
+            } catch (error) {
+                console.error("Failed to load spreadsheet data:", error);
+                document.getElementById('error-message').classList.remove('hidden');
+            } finally {
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('app').classList.remove('hidden');
+            }
+        }
+
+        // --- FILTERING LOGIC ---
+
+        function getUniqueValues(field) {
+            // Filters only use the main products
+            const values = allProducts.map(p => p[field]).filter(Boolean);
+            const unique = [...new Set(values)].sort((a, b) => {
+                if (field === 'GradeLevel') {
+                    const normalize = (val) => {
+                        if (val.toLowerCase() === 'k') return 0;
+                        if (val.toLowerCase() === 'p') return -1;
+                        const parts = val.split('-');
+                        return parseInt(parts[0]) || Infinity; 
+                    };
+                    return normalize(a) - normalize(b);
+                }
+                return String(a).localeCompare(String(b));
+            });
+            return unique;
+        }
+
+        function initFilters() {
+            // If a ProductID is present in the URL, skip filter UI initialization
+            // This is because the filter UI (buttons/search) should only control the main catalog view.
+            if (state.filters.ProductID) {
+                document.getElementById('search').value = '';
+                document.getElementById('search').disabled = true;
+                document.getElementById('filter-grade-level').innerHTML = '';
+                document.getElementById('filter-topic').innerHTML = '';
+                document.getElementById('filter-product-type').innerHTML = '';
+                document.getElementById('clear-filters').disabled = true;
+                return;
+            } else {
+                 // Re-enable in case user navigates back to the root URL
+                document.getElementById('search').disabled = false;
+                document.getElementById('clear-filters').disabled = false;
+            }
+
+
+            // Normal filter initialization logic below:
+            const filterMap = [
+                { field: 'GradeLevel', id: 'filter-grade-level', paramKey: 'grade' },
+                { field: 'Topic', id: 'filter-topic', paramKey: 'topic' },
+                { field: 'ProductType', id: 'filter-product-type', paramKey: 'type' }
+            ];
+
+            // 1. Initialize Search Input based on state
+            const searchInput = document.getElementById('search');
+            searchInput.value = state.searchQuery;
+            searchInput.addEventListener('input', handleSearchInput);
+
+
+            filterMap.forEach(({ field, id, paramKey }) => {
+                const container = document.getElementById(id);
+                if (!container) {
+                    console.warn(`Filter container not found for ID: ${id}`);
+                    return;
+                } 
+
+                const values = getUniqueValues(field);
+                
+                // Clear existing buttons to prevent duplicates
+                container.querySelector('.filter-button-container')?.remove();
+
+                if (values.length === 0) return; 
+
+                const buttonContainer = document.createElement('div');
+                buttonContainer.className = 'flex flex-wrap gap-2 filter-button-container';
+
+                values.forEach(value => {
+                    const button = document.createElement('button');
+                    button.textContent = value;
+                    button.className = 'filter-button px-3 py-1 text-sm rounded-full bg-gray-200 text-gray-700 hover:bg-blue-100 transition duration-150 whitespace-nowrap';
+                    button.dataset.field = field;
+                    button.dataset.value = value;
+                    button.addEventListener('click', handleFilterClick);
+                    
+                    // Check if this filter is active from the URL/state
+                    if (state.filters[field] === value) {
+                        button.classList.add('active-filter');
+                    }
+                    
+                    buttonContainer.appendChild(button);
+                });
+                container.appendChild(buttonContainer);
+            });
+            
+            document.getElementById('clear-filters').addEventListener('click', clearAllFilters);
+        }
+
+        function handleFilterClick(event) {
+            const { field, value } = event.target.dataset;
+            const isActive = event.target.classList.contains('active-filter');
+            
+            Object.values(document.querySelectorAll(`[data-field="${field}"]`)).forEach(btn => btn.classList.remove('active-filter'));
+
+            if (isActive) {
+                state.filters[field] = null;
+            } else {
+                state.filters[field] = value;
+                event.target.classList.add('active-filter');
+            }
+            
+            // GA Tracking
+            trackEvent('filter_used', {
+                filter_category: field,
+                filter_value: isActive ? 'cleared' : value,
+                action: isActive ? 'clear' : 'set'
+            });
+
+            renderProducts();
+        }
+        
+        function handleSearchInput(event) {
+            state.searchQuery = event.target.value.toLowerCase().trim();
+            
+            // GA Tracking (debounce for heavy typing is optional but good practice)
+            trackEvent('search', {
+                search_term: state.searchQuery,
+            });
+
+            renderProducts();
+        }
+
+        function clearAllFilters(event) {
+            if(event) event.preventDefault(); 
+
+            // Clear state and URL, then re-render
+            state.searchQuery = '';
+            state.filters = {
+                ProductID: null, 
+                GradeLevel: null,
+                Topic: null,
+                ProductType: null
+            };
+            
+            // Clear URL query string
+            const url = window.location.origin + window.location.pathname;
+            window.history.pushState({}, document.title, url);
+
+
+            // Re-initialize UI
+            document.getElementById('search').value = '';
+            initFilters(); // Re-initialize filters for proper state/UI refresh
+            
+            // UI cleanup
+            Object.values(document.querySelectorAll('.filter-button')).forEach(btn => btn.classList.remove('active-filter'));
+            
+            // GA Tracking
+            trackEvent('filters_cleared');
+
+            renderProducts();
+        }
+
+        function filterProducts() {
+            // Priority 1: Filter by ProductID if present
+            if (state.filters.ProductID) {
+                const product = allProducts.find(p => p.ProductID === state.filters.ProductID) || freebieProducts.find(p => p.ProductID === state.filters.ProductID);
+                return product ? [product] : []; // Return an array with just the matched product or empty
+            }
+
+            // Priority 2: Normal catalog filtering
+            return allProducts.filter(product => {
+                if (!product.InStock) return false;
+                
+                const search = state.searchQuery;
+                if (search) {
+                    // Check search query against Title and Tags
+                    const searchArea = `${product.ProductTitle} ${product.Tags}`.toLowerCase();
+                    if (!searchArea.includes(search)) return false;
+                }
+
+                for (const field in state.filters) {
+                    // Skip ProductID filter and null filters
+                    if (field === 'ProductID' || state.filters[field] === null) continue;
+                    
+                    const filterValue = state.filters[field];
+                    if (filterValue && product[field] !== filterValue) {
+                        return false;
+                    }
+                }
+
+                return true;
+            });
+        }
+
+        // --- RENDERING LOGIC ---
+
+        function renderFreebieCard(product) {
+            // Check if discounted price is exactly 0.01 (the freebie marker)
+            const isVisuallyFree = product.PricePHPDiscounted === 0.01;
+            const gradeText = product.GradeLevel ? `Grade ${product.GradeLevel}` : 'All Grades';
+            
+            const priceDisplay = isVisuallyFree ? 
+                '<span class="text-3xl font-extrabold text-amber-600">FREE</span>' : 
+                `<span class="text-xs text-gray-500 line-through">${formatCurrency(product.PricePHPRegular)}</span><span class="text-2xl font-extrabold text-red-600">${formatCurrency(product.PricePHPDiscounted)}</span>`;
+            
+            const ctaText = isVisuallyFree ? 'Get Freebie' : 'View & Buy';
+            const ctaClass = isVisuallyFree ? 'bg-amber-500 text-white shadow-xl hover:bg-amber-600' : 'bg-blue-700 text-white shadow-md hover:bg-blue-800';
+            const cardClass = isVisuallyFree ? 'freebie-card border-4 border-amber-500 transform hover:scale-[1.01]' : 'border border-gray-200';
+            const badge = isVisuallyFree ? 
+                '<span class="absolute top-3 left-3 bg-amber-500 text-white text-md font-bold px-4 py-1 rounded-full shadow-lg z-10 animate-pulse">⭐ FREE OFFER!</span>' : 
+                '';
+
+            // If it's the 0.01 freebie, use the special GA event name
+            const gaEventName = isVisuallyFree ? 'freebie_click' : 'product_view_buy';
+            const gaTracking = `onclick="trackEvent('${gaEventName}', {product_id: '${product.ProductID}'})"`;
+
+            // The handleShareClick now calls the function with the ProductID
+            return `
+                <div class="product-card bg-white rounded-xl overflow-hidden shadow-xl ${cardClass} transition duration-300">
+                    <div class="relative bg-gray-100 overflow-hidden h-48">
+                        <img class="w-full h-full object-cover transition duration-300 ease-in-out hover:scale-105" src="${product.ImageURL}" alt="${product.ProductTitle}" onerror="this.onerror=null; this.src='https://placehold.co/400x300/4A5568/ffffff?text=${isVisuallyFree ? 'FREEBIE' : 'Image+Not+Found'}'">
+                        ${badge}
+                    </div>
+
+                    <div class="p-5">
+                        <h3 class="text-xl font-extrabold text-gray-900 line-clamp-2 min-h-[56px]">${product.ProductTitle}</h3>
+                        
+                        <div class="flex flex-wrap gap-2 mt-2 text-xs font-medium">
+                            ${isVisuallyFree ? '<span class="bg-red-100 text-red-800 px-2 py-1 rounded-full">FREE</span>' : ''}
+                            <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">${product.Topic}</span>
+                            <span class="bg-indigo-100 text-indigo-800 px-2 py-1 rounded-full">${product.ProductType}</span>
+                            <span class="bg-gray-200 text-gray-700 px-2 py-1 rounded-full">${gradeText}</span>
+                        </div>
+
+                        <p class="mt-3 text-sm text-gray-600 line-clamp-3 min-h-[60px]">${product.ShortDescription}</p>
+
+                        <div class="mt-4 flex flex-wrap items-center justify-between gap-2">
+                            <div class="flex flex-col">
+                                ${priceDisplay}
+                            </div>
+                            <div class="flex space-x-2">
+                                <button onclick="handleShareClick('${product.ProductID}', event)" 
+                                        class="share-button px-3 py-2 bg-gray-400 text-white text-sm font-semibold rounded-lg shadow hover:bg-gray-500 transition duration-150 transform hover:scale-105">
+                                    <svg class="w-4 h-4 inline-block align-text-bottom" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.88 12.834 9 12.296 9 11.5c0-1.042-.16-2.075-.477-3.033M12 7h1.5a4 4 0 014 4v1m-4-7h2m-4 13h2M8.684 13.342c-.305.464-.627.915-.992 1.341a4.343 4.343 0 00-.776 1.956 2.33 2.33 0 01-2.22 2.19M18.823 10C17.755 10 17 9.317 17 8.5c0-.818.755-1.5 1.823-1.5s1.823.682 1.823 1.5c0 .818-.755 1.5-1.823 1.5z"></path></svg>
+                                    Share
+                                </button>
+                                <a href="${product.ProductPagePath}" target="_blank" ${gaTracking} class="px-5 py-2 text-sm font-semibold rounded-lg transition duration-150 transform hover:scale-105 ${ctaClass}">
+                                    ${ctaText}
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+
+        function renderProductCard(product) {
+            const isDiscounted = product.IsDiscounted && product.PricePHPRegular > product.PricePHPDiscounted;
+            const isVisuallyFree = product.PricePHPDiscounted === 0.01;
+            const priceRegular = formatCurrency(product.PricePHPRegular);
+            const priceDiscounted = formatCurrency(product.PricePHPDiscounted);
+            
+            let discountPercent = '';
+            if (isDiscounted && product.PricePHPRegular > 0 && !isVisuallyFree) {
+                const percentage = Math.round(((product.PricePHPRegular - product.PricePHPDiscounted) / product.PricePHPRegular) * 100);
+                discountPercent = `${percentage}% OFF`;
+            }
+
+            const gradeText = product.GradeLevel ? `Grade ${product.GradeLevel}` : 'All Grades';
+            
+            // Price Display Logic
+            let priceHTML;
+            if (isVisuallyFree) {
+                 priceHTML = `<span class="text-xs text-gray-500 line-through">${priceRegular}</span><span class="text-2xl font-extrabold text-amber-600">FREE</span>`;
+            } else if (isDiscounted) {
+                priceHTML = `<span class="text-xs text-gray-500 line-through">${priceRegular}</span><span class="text-2xl font-extrabold text-red-600">${priceDiscounted}</span>`;
+            } else {
+                priceHTML = `<span class="text-2xl font-extrabold text-blue-900">${priceRegular}</span>`;
+            }
+
+
+            // The handleShareClick now calls the function with the ProductID
+            return `
+                <div class="product-card bg-white rounded-xl overflow-hidden shadow-xl border border-gray-200">
+                    <div class="relative bg-gray-100 overflow-hidden h-48">
+                        <img class="w-full h-full object-cover transition duration-300 ease-in-out hover:scale-105" src="${product.ImageURL}" alt="${product.ProductTitle}" onerror="this.onerror=null; this.src='https://placehold.co/400x300/4A5568/ffffff?text=Image+Not+Found'">
+                        
+                        ${isVisuallyFree ? 
+                            '<span class="absolute top-3 right-3 bg-amber-500 text-white text-xs font-bold px-3 py-1 rounded-full shadow-md z-10">FREE</span>' :
+                            (isDiscounted ? `<span class="absolute top-3 right-3 bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow-md z-10">${discountPercent}</span>` : '')
+                        }
+                    </div>
+
+                    <div class="p-5">
+                        <h3 class="text-xl font-extrabold text-gray-900 line-clamp-2 min-h-[56px]">${product.ProductTitle}</h3>
+                        
+                        <div class="flex flex-wrap gap-2 mt-2 text-xs font-medium">
+                            <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">${product.Topic}</span>
+                            <span class="bg-indigo-100 text-indigo-800 px-2 py-1 rounded-full">${product.ProductType}</span>
+                            <span class="bg-gray-200 text-gray-700 px-2 py-1 rounded-full">${gradeText}</span>
+                        </div>
+
+                        <p class="mt-3 text-sm text-gray-600 line-clamp-3 min-h-[60px]">${product.ShortDescription}</p>
+
+                        <div class="mt-4 flex flex-wrap items-center justify-between gap-2">
+                            <div class="flex flex-col">
+                                ${priceHTML}
+                            </div>
+                            <div class="flex space-x-2">
+                                <button onclick="handleShareClick('${product.ProductID}', event)" 
+                                        class="share-button px-3 py-2 bg-gray-400 text-white text-sm font-semibold rounded-lg shadow hover:bg-gray-500 transition duration-150 transform hover:scale-105">
+                                    <svg class="w-4 h-4 inline-block align-text-bottom" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.88 12.834 9 12.296 9 11.5c0-1.042-.16-2.075-.477-3.033M12 7h1.5a4 4 0 014 4v1m-4-7h2m-4 13h2M8.684 13.342c-.305.464-.627.915-.992 1.341a4.343 4.343 0 00-.776 1.956 2.33 2.33 0 01-2.22 2.19M18.823 10C17.755 10 17 9.317 17 8.5c0-.818.755-1.5 1.823-1.5s1.823.682 1.823 1.5c0 .818-.755 1.5-1.823 1.5z"></path></svg>
+                                    Share
+                                </button>
+                                <a href="${product.ProductPagePath}" target="_blank" class="px-5 py-2 bg-blue-700 text-white text-sm font-semibold rounded-lg shadow-md hover:bg-blue-800 transition duration-150 transform hover:scale-105">
+                                    View & Buy
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderProducts() {
+            const filteredProducts = filterProducts();
+            const freebieContainer = document.getElementById('freebie-list'); 
+            const listContainer = document.getElementById('product-list');
+            const noResults = document.getElementById('no-results');
+            
+            // 1. If filtering by ID, the freebie list is hidden, as it's meant for the main catalog view
+            if (state.filters.ProductID) {
+                freebieContainer.classList.add('hidden');
+            } else {
+                 // Re-enable in the normal catalog view, assuming freebieProducts has content
+                 if (freebieProducts.length > 0) {
+                     freebieContainer.innerHTML = freebieProducts.map(renderFreebieCard).join('');
+                     freebieContainer.classList.remove('hidden');
+                 } else {
+                     freebieContainer.classList.add('hidden');
+                 }
+            }
+            
+            // 2. Render Filtered Products
+            listContainer.innerHTML = '';
+
+            // Determine if the filter criteria resulted in 0 products
+            const isNoResults = filteredProducts.length === 0 && (state.searchQuery !== '' || Object.values(state.filters).some(f => f !== null));
+            
+            if (isNoResults) {
+                noResults.classList.remove('hidden');
+            } else {
+                noResults.classList.add('hidden');
+                filteredProducts.forEach(product => {
+                    listContainer.innerHTML += renderProductCard(product);
+                });
+            }
+        }
+
+        // Initialize App
+        document.addEventListener('DOMContentLoaded', () => {
+            // Fetch the dynamic data and render UI
+            fetchProducts();
+        });
+    </script>
 </body>
 </html>
