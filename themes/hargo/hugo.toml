@@ -1,6 +1,7 @@
 baseURL = 'https://texmathpro.github.io/'
 languageCode = 'en-US'
 title = 'TeXMathPro'
+theme = 'hargo'
 
 [menus]
   [[menus.main]]
