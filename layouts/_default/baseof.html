@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .price { font-size: 1.5em; color: #2ea44f; font-weight: bold; }
+        .original-price { text-decoration: line-through; color: #666; margin-right: 10px; }
+        .discount-badge { background: #d73a49; color: white; padding: 5px 10px; border-radius: 5px; }
+        img { max-width: 100%; height: auto; }
+        nav { margin-bottom: 30px; }
+        nav a { margin-right: 20px; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/posts/">All Products</a>
+    </nav>
+    {{ block "main" . }}{{ end }}
+</body>
+</html>

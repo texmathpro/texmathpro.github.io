@@ -1,23 +1,25 @@
 {{ define "main" }}
 <article>
-  <h1>{{ .Title }}</h1>
-  
-  {{ if .Params.photo }}
+    <h1>{{ .Title }}</h1>
+    
+    {{ if .Params.photo }}
     <img src="{{ .Params.photo }}" alt="{{ .Title }}">
-  {{ end }}
-  
-  <div class="price-info">
-    {{ if .Params.isDiscounted }}
-      <span class="original-price">${{ .Params.priceRegular }}</span>
-      <span class="discounted-price">${{ .Params.priceDiscounted }}</span>
-      <span class="discount-end">Until {{ .Params.discountedUntil }}</span>
-    {{ else }}
-      <span class="price">${{ .Params.priceRegular }}</span>
     {{ end }}
-  </div>
-  
-  <div class="content">
-    {{ .Content }}
-  </div>
+    
+    <div class="price-section">
+        {{ if .Params.isDiscounted }}
+            <span class="original-price">${{ .Params.priceRegular }}</span>
+            <span class="price">${{ .Params.priceDiscounted }}</span>
+            <span class="discount-badge">On Sale Until {{ .Params.discountedUntil }}</span>
+        {{ else }}
+            <span class="price">${{ .Params.priceRegular }}</span>
+        {{ end }}
+    </div>
+    
+    <div class="content">
+        {{ .Content }}
+    </div>
+    
+    <p><small>Product ID: {{ .Params.productId }}</small></p>
 </article>
 {{ end }}
