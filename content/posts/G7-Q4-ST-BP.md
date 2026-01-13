@@ -31,10 +31,6 @@ draft: false
 
 
 ## Step 1: I-fill out at i-submit ang Order Form
-{{< iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" height="600" >}}
-
-
----
 
 ## Step 2: Payment and Delivery
 
