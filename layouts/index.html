@@ -10,7 +10,7 @@
         {{ if .Params.isDiscounted }}
             <span class="discount-badge">SALE</span>
         {{ end }}
-        <p class="price">${{ if .Params.isDiscounted }}{{ .Params.priceDiscounted }}{{ else }}{{ .Params.priceRegular }}{{ end }}</p>
+        <p class="price">₱{{ if .Params.isDiscounted }}{{ .Params.priceDiscounted }}{{ else }}{{ .Params.priceRegular }}{{ end }}</p>
     </div>
 {{ end }}
 </div>

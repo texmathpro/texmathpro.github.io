@@ -8,11 +8,11 @@
     
     <div class="price-section">
         {{ if .Params.isDiscounted }}
-            <span class="original-price">${{ .Params.priceRegular }}</span>
-            <span class="price">${{ .Params.priceDiscounted }}</span>
+            <span class="original-price">₱{{ .Params.priceRegular }}</span>
+            <span class="price">₱{{ .Params.priceDiscounted }}</span>
             <span class="discount-badge">On Sale Until {{ .Params.discountedUntil }}</span>
         {{ else }}
-            <span class="price">${{ .Params.priceRegular }}</span>
+            <span class="price">₱{{ .Params.priceRegular }}</span>
         {{ end }}
     </div>
     
