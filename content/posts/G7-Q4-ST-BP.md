@@ -10,23 +10,14 @@ discountedUntil: "2026-01-03"
 draft: false
 ---
 
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 3rd Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 3rd Summative exam mo, KasaMath? Pili ka na ng Assessment Package na bagay sa?yo!*
-
-**Bakit perfect para sa?yo ang Assessment Packages?**
+**Bakit perfect para sa?yo ang Basic Assessment Package?**
 
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
 - Maaga kang makakapag-submit ng TOS sa head mo.  
-- Marami kang options na bagay sa needs mo.
-
----
-
-## Step 1: Pili ka ng Assessment Package na bagay sa?yo
-
-### 1. **Basic Package: Standard Assessment Plan** ? ?120
-
 - Ready-to-print exam: buong quarter ang covered topics  
 - Table of Specifications (Bloom?s Taxonomy format)  
 - Number of days: 35 days  
@@ -38,56 +29,18 @@ draft: false
 
 *Sample TOS formatted using Bloom?s Taxonomy*
 
----
 
-### 2. **Standard Package: Flexible Assessment Toolkit** ? ?165
-
-- Ready-to-print exam: buong quarter ang covered topics  
-- TOS: Bloom?s format o 21st Century format  
-- Number of days: 35 days o 40 days  
-- 50-item Multiple Choice test with Answer Key  
-- Add ?80 kung gusto mo ng 3rd Periodic Test  
-- Para sa teachers na gusto ng flexibility  
-
-[![Sample TOS formatted using 21st Century Skills](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5GmM32K1s0E4mk66Ha2SxbBxzaWXEd3S-ZF0epeSZRw4swnZiVq2NLPjz0yzYyM9CnYN1xhHwJXfqq2B-Cvqm7mR995MhUPqalPbHmozC1ZokA6cRwnGuSr9U2gjeTPIX1L36mV1-eml-MhjY3E-OYoKPESgEdGJ4eHOaEnAfgClR_3JumDwYjAi-FQ/s16000/21.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5GmM32K1s0E4mk66Ha2SxbBxzaWXEd3S-ZF0epeSZRw4swnZiVq2NLPjz0yzYyM9CnYN1xhHwJXfqq2B-Cvqm7mR995MhUPqalPbHmozC1ZokA6cRwnGuSr9U2gjeTPIX1L36mV1-eml-MhjY3E-OYoKPESgEdGJ4eHOaEnAfgClR_3JumDwYjAi-FQ/s1843/21.png)
-
-*Sample TOS formatted using 21st Century Skills*
-
----
-
-### 3. **Premium Package: Personalized Assessment Suite** ? ?350
-
-- Fully customizable exam: kahit anong topic  
-- TOS: Bloom?s format o 21st Century format  
-- Number of days: kahit ilan  
-- 50-item Multiple Choice test with Answer Key  
-- Add ?80 kung gusto mo ng 3rd Periodic Test  
-- Para sa teachers na gusto ng pasadyang exam  
-
----
-
-## Package Comparison Table
-
-| Package Name | Key Features | Price |
-|-------------|--------------|-------|
-| Basic | Pre-designed Test + Bloom?s TOS + Answer Key | ?120 + ?80 |
-| Standard | Test + TOS (2 format choices) + Answer Key | ?165 + ?80 |
-| Premium | Fully Custom Test + TOS + Answer Key | ?350 + ?80 |
-
----
-
-## Step 2: I-fill out at i-submit ang Order Form
+## Step 1: I-fill out at i-submit ang Order Form
 
 <iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" width="99%" height="600"></iframe>
 
 ---
 
-## Step 3: Payment and Delivery
+## Step 2: Payment and Delivery
 
 ### Payment Methods
 
-Send ?120 (Basic), ?165 (Standard), o ?350 (Premium).  
-Add ?80 kung kasama ang **3rd Periodic Test**.
+Just send ?120. Add ?80 kung gusto mo ring kasama ang **3rd Periodic Test**.
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
