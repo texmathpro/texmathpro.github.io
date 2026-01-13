@@ -10,7 +10,7 @@ discountedUntil: "2026-01-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 3rd Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 4th Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 
@@ -22,7 +22,7 @@ draft: false
 - Table of Specifications (Bloom’s Taxonomy format)  
 - Number of days: 35 days  
 - 50-item Multiple Choice test with Answer Key  
-- Add ka lang ng ₱80 kung gusto mo idagdag ang 3rd Periodic Test  
+- Add ka lang ng ₱80 kung gusto mo idagdag ang **4th Periodic Test**  
 - Para sa teachers na nagmamadali  
 
 [![Sample TOS formatted using Bloom’s Taxonomy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47dfR24kpoVepwVWAV2BVyJa9CNl9HTHm7CXtst5Qw1nrrv8JNJ_VzlAkfsxGb8_2E9pCTKYhEGNtggTNn1AA1z_LK8E0wodiRmWpBa5jVWo559spupcF5HUooYTWI3GdOnWtCdLlEOFfG0di5B-8oZ8QxvEzKG6nk68BiWL-AF2L58m_oUo912a4gIY/s16000/bloom.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47dfR24kpoVepwVWAV2BVyJa9CNl9HTHm7CXtst5Qw1nrrv8JNJ_VzlAkfsxGb8_2E9pCTKYhEGNtggTNn1AA1z_LK8E0wodiRmWpBa5jVWo559spupcF5HUooYTWI3GdOnWtCdLlEOFfG0di5B-8oZ8QxvEzKG6nk68BiWL-AF2L58m_oUo912a4gIY/s1643/bloom.png)
@@ -39,7 +39,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱120 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring kasama ang **4th Periodic Test**.
+Mag-send ka lang ng ₱120 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **4th Periodic Test**.
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
