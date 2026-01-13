@@ -31,8 +31,8 @@ draft: false
 
 
 ## Step 1: I-fill out at i-submit ang Order Form
+{{< iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" height="600" >}}
 
-<iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" width="99%" height="600"></iframe>
 
 ---
 
@@ -69,3 +69,7 @@ Files are sent after payment.
 
 Thank you for supporting **TeXMathPro, KasaMath**.  
 https://texmathpro.blogspot.com/2024/03/usap-tayo-kasamath.html
+
+## Order This Product
+
+<iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" width="99%" height="600"></iframe>
