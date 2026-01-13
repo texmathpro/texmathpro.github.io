@@ -1,17 +1,3 @@
 {{ define "main" }}
-<h1>Welcome to {{ .Site.Title }}</h1>
-<p>{{ .Site.Params.description }}</p>
-
-<h2>Latest Products</h2>
-<div>
-{{ range first 10 (where .Site.RegularPages "Section" "posts") }}
-    <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0;">
-        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        {{ if .Params.isDiscounted }}
-            <span class="discount-badge">SALE</span>
-        {{ end }}
-        <p class="price">₱{{ if .Params.isDiscounted }}{{ .Params.priceDiscounted }}{{ else }}{{ .Params.priceRegular }}{{ end }}</p>
-    </div>
-{{ end }}
-</div>
+<iframe src="/catalog.html" width="100%" height="100%" style="border:none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;"></iframe>
 {{ end }}
