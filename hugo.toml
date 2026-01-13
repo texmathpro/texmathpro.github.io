@@ -1,4 +1,12 @@
 baseURL = 'https://texmathpro.github.io/'
 languageCode = 'en-us'
-title = 'TeXMathPro'
+title = 'TexMath Pro'
 
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Math Products"
