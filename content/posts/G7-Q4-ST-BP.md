@@ -22,7 +22,7 @@ draft: false
 - Table of Specifications (Bloom’s Taxonomy format)  
 - Number of days: 35 days  
 - 50-item Multiple Choice test with Answer Key  
-- Add ₱80 kung gusto mo ng 3rd Periodic Test  
+- Add ka lang ng ₱80 kung gusto mo idagdag ang 3rd Periodic Test  
 - Para sa teachers na nagmamadali  
 
 [![Sample TOS formatted using Bloom’s Taxonomy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47dfR24kpoVepwVWAV2BVyJa9CNl9HTHm7CXtst5Qw1nrrv8JNJ_VzlAkfsxGb8_2E9pCTKYhEGNtggTNn1AA1z_LK8E0wodiRmWpBa5jVWo559spupcF5HUooYTWI3GdOnWtCdLlEOFfG0di5B-8oZ8QxvEzKG6nk68BiWL-AF2L58m_oUo912a4gIY/s16000/bloom.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47dfR24kpoVepwVWAV2BVyJa9CNl9HTHm7CXtst5Qw1nrrv8JNJ_VzlAkfsxGb8_2E9pCTKYhEGNtggTNn1AA1z_LK8E0wodiRmWpBa5jVWo559spupcF5HUooYTWI3GdOnWtCdLlEOFfG0di5B-8oZ8QxvEzKG6nk68BiWL-AF2L58m_oUo912a4gIY/s1643/bloom.png)
@@ -39,31 +39,31 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱120. Magdagdag ka lang ng ₱80 kung gusto mo ring kasama ang **3rd Periodic Test**.
+Mag-send ka lang ng ₱120 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring kasama ang **4th Periodic Test**.
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
 - **Maya**: 09128389571 (Jonathan Bacolod)  
 
-**Pakisend lang ang payment screenshot dito:**
+**Isend ang Screenshot ng Payment kahit saan dito:**
 
 - Email: [texmathpro@gmail.com](mailto:texmathpro@gmail.com)  
 - Facebook: https://m.me/jonathan.r.bacolod  
 - Telegram: https://t.me/Jonathan_Bacolod  
 
-Files are sent after payment.
+Isesend ko ang files sa email address mo after ng payment. 
 
 ---
 
-## Delivery Includes
+## Delivery Includes:
 
 - **Test**
-  - 50-item multiple choice test
-  - A4 bond paper  
-  - PDF format (created using LaTeX)
+  - Test type: 50-item multiple choice test
+  - Dimensions: A4 bond paper
+  - Format: PDF, created using LaTeX
 - **Answer Key**
-  - PDF format (created using LaTeX)
+  - Format: PDF, created using LaTeX
 - **Table of Specifications**
   - XLSX format
 
-Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! 
+Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, : [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
