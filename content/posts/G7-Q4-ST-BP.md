@@ -31,8 +31,7 @@ draft: false
 
 
 ## Step 1: I-fill out at i-submit ang Order Form
-{{< iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" height="1000" >}}
-
+{{< iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" height="800" >}}
 
 ---
 
@@ -40,13 +39,13 @@ draft: false
 
 ### Payment Methods
 
-Just send ₱120. Add ₱80 kung gusto mo ring kasama ang **3rd Periodic Test**.
+Mag-send ka lang ng ₱120. Magdagdag ka lang ng ₱80 kung gusto mo ring kasama ang **3rd Periodic Test**.
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
 - **Maya**: 09128389571 (Jonathan Bacolod)  
 
-**Send payment screenshot via:**
+**Pakisend lang ang payment screenshot dito:**
 
 - Email: [texmathpro@gmail.com](mailto:texmathpro@gmail.com)  
 - Facebook: https://m.me/jonathan.r.bacolod  
@@ -59,13 +58,12 @@ Files are sent after payment.
 ## Delivery Includes
 
 - **Test**
-  - 50-item multiple choice  
+  - 50-item multiple choice test
   - A4 bond paper  
-  - PDF (LaTeX)
+  - PDF format (created using LaTeX)
 - **Answer Key**
-  - PDF (LaTeX)
+  - PDF format (created using LaTeX)
 - **Table of Specifications**
-  - XLSX
+  - XLSX format
 
-Thank you for supporting **TeXMathPro, KasaMath**.  
-https://texmathpro.blogspot.com/2024/03/usap-tayo-kasamath.html
+Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! 
