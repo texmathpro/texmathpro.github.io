@@ -5,9 +5,9 @@ productId: "G7-Q4-ST-BP"
 photo: "https://i.imgur.com/7TkMgME.jpeg"
 priceRegular: 16
 priceDiscounted: 8
-isDiscounted: false
+isDiscounted: true
 discountedUntil: "2026-01-03"
 draft: false
 ---
 
-fuck hhh regular 
+hhh discounted 
