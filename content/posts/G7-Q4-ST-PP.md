@@ -10,7 +10,7 @@ discountedUntil: "2026-01-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 4th Summative exam mo, KasaMath? Kuha ka na ng Premium Assessment Package habang naka-Early Bird Promo!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at  Summative exam mo, KasaMath? Kuha ka na ng Premium Assessment Package habang naka-Early Bird Promo!*
 
 **Bakit perfect para sa’yo ang Premium Assessment Package?**
 
@@ -23,7 +23,7 @@ draft: false
 - Table of Specifications: pwedeng Bloom's format o 21st Century format
 - Number of days: pwede kahit ilan
 - 50-item Multiple Choice test with Answer Key  
-- Add ka lang ng ₱80 kung gusto mo idagdag ang **4th Periodic Test**  
+- Add ka lang ng ₱80 kung gusto mo idagdag ang **Periodic Test**  
 - Perfect sa teachers na gusto ng pasadyang exam
 
 [![Sample TOS formatted using Bloom’s Taxonomy](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)
@@ -44,7 +44,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱245 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **4th Periodic Test**. Sulitin mo na ang **Early Bird Promo**, KasaMath!
+Mag-send ka lang ng ₱245 para sa **Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **Periodic Test**. Sulitin mo na ang **Early Bird Promo**, KasaMath!
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
