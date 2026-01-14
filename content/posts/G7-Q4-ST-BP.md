@@ -5,7 +5,7 @@ productId: "G7-Q4-ST-BP"
 photo: "https://i.imgur.com/7TkMgME.jpeg"
 priceRegular: 120
 priceDiscounted: 84
-isDiscounted: false
+isDiscounted: true
 discountedUntil: "2026-01-03"
 draft: false
 ---
@@ -14,7 +14,8 @@ draft: false
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 
-- Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
+- Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.
+- Tipid din sa budget dahil naka-**30% discount**.
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
 - Maaga kang makakapag-submit ng TOS sa head mo.  
@@ -39,7 +40,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱120 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **4th Periodic Test**.
+Mag-send ka lang ng ₱84 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **4th Periodic Test**. Sulitin mo na ang Early Bird Promo!
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
