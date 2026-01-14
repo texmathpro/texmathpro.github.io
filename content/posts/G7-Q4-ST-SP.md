@@ -26,17 +26,15 @@ draft: false
 - Bagay sa teachers na gusto ng flexibility sa exam
 
 [![Sample TOS formatted using Bloom’s Taxonomy](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)
-
 *Sample TOS formatted using Bloom’s Taxonomy*
 
 [![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
-
 *Sample TOS formatted using 21st Century Skills*
 
 ---
 
 ## Step 1: I-fill out at i-submit ang Order Form
-{{< iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" height="800" >}}
+{{< iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" height="850" >}}
 
 ---
 
