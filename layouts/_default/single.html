@@ -8,14 +8,16 @@
     
     <div class="price-section">
         {{ if .Params.isDiscounted }}
-            {{ $regularPrice := .Params.priceRegular }}
-            {{ $discountedPrice := .Params.priceDiscounted }}
+            {{ $regularPrice := .Params.priceRegular | float }}
+            {{ $discountedPrice := .Params.priceDiscounted | float }}
             {{ if and (gt $regularPrice 0) (lt $discountedPrice $regularPrice) }}
                 {{ $discount := sub $regularPrice $discountedPrice }}
                 {{ $discountPercent := math.Round (mul (div $discount $regularPrice) 100) }}
                 
-                <span class="discount-indicator">{{ $discountPercent }}% OFF</span>
-                <br>
+                {{ if gt $discountPercent 0 }}
+                    <span class="discount-indicator">{{ $discountPercent }}% OFF</span>
+                    <br>
+                {{ end }}
             {{ end }}
             <span class="original-price">₱{{ .Params.priceRegular }}</span>
             <span class="price">₱{{ .Params.priceDiscounted }}</span>
