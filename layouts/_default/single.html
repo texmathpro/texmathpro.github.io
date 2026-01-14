@@ -1,14 +1,5 @@
 {{ define "main" }}
 <article>
-    <!-- Store Logo -->
-    <div class="store-logo" style="text-align: center; margin-bottom: 20px;">
-        <a href="/">
-            <img src="https://i.imgur.com/kiFfMas.jpeg" 
-                 alt="TeXMathPro Logo" 
-                 style="max-width: 200px; height: auto;">
-        </a>
-    </div>
-    
     <h1>{{ .Title }}</h1>
     
     {{ if .Params.photo }}
@@ -17,11 +8,15 @@
     
     <div class="price-section">
         {{ if .Params.isDiscounted }}
-            {{ $discount := div (sub .Params.priceRegular .Params.priceDiscounted) .Params.priceRegular }}
-            {{ $discountPercent := mul $discount 100 | math.Round }}
-            
-            <span class="discount-indicator">{{ $discountPercent }}% OFF</span>
-            <br>
+            {{ $regularPrice := .Params.priceRegular }}
+            {{ $discountedPrice := .Params.priceDiscounted }}
+            {{ if and (gt $regularPrice 0) (lt $discountedPrice $regularPrice) }}
+                {{ $discount := sub $regularPrice $discountedPrice }}
+                {{ $discountPercent := math.Round (mul (div $discount $regularPrice) 100) }}
+                
+                <span class="discount-indicator">{{ $discountPercent }}% OFF</span>
+                <br>
+            {{ end }}
             <span class="original-price">₱{{ .Params.priceRegular }}</span>
             <span class="price">₱{{ .Params.priceDiscounted }}</span>
             <br>
