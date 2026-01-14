@@ -40,7 +40,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱84 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **4th Periodic Test**. Sulitin mo na ang Early Bird Promo!
+Mag-send ka lang ng ₱84 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **4th Periodic Test**. Sulitin mo na ang **Early Bird Promo**, KasaMath!
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
