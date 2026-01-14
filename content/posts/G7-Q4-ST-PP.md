@@ -26,11 +26,9 @@ draft: false
 - Perfect sa teachers na gusto ng pasadyang exam
 
 [![Sample TOS formatted using Bloom’s Taxonomy](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)
-
 *Sample TOS formatted using Bloom’s Taxonomy*
 
 [![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
-
 *Sample TOS formatted using 21st Century Skills*
 
 ---
