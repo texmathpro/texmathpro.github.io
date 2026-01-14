@@ -10,11 +10,11 @@ discountedUntil: "2026-01-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 4th Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 4th Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package habang naka-Early Bird Promo!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 
-- Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.
+- Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
 - Tipid din sa budget dahil naka-**30% discount**.
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  

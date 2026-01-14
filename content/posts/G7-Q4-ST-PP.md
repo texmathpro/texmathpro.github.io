@@ -5,29 +5,34 @@ productId: "G7-Q4-ST-PP"
 photo: "https://i.imgur.com/7TkMgME.jpeg"
 priceRegular: 350
 priceDiscounted: 245
-isDiscounted: false
+isDiscounted: true
 discountedUntil: "2026-01-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 4th Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at 4th Summative exam mo, KasaMath? Kuha ka na ng Premium Assessment Package habang naka-Early Bird Promo!*
 
-**Bakit perfect para sa’yo ang Basic Assessment Package?**
+**Bakit perfect para sa’yo ang Premium Assessment Package?**
 
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
+- Tipid din sa budget dahil naka-**30% discount**.
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
 - Maaga kang makakapag-submit ng TOS sa head mo.  
-- Ready-to-print exam: buong quarter ang covered topics  
-- Table of Specifications (Bloom’s Taxonomy format)  
-- Number of days: 35 days  
+- Fully customizable exam: kahit anong topic ang pwedeng covered
+- Table of Specifications: pwedeng Bloom's format o 21st Century format
+- Number of days: pwede kahit ilan
 - 50-item Multiple Choice test with Answer Key  
 - Add ka lang ng ₱80 kung gusto mo idagdag ang **4th Periodic Test**  
-- Para sa teachers na nagmamadali  
+- Perfect sa teachers na gusto ng pasadyang exam
 
 [![Sample TOS formatted using Bloom’s Taxonomy](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)
 
 *Sample TOS formatted using Bloom’s Taxonomy*
+
+[![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
+
+*Sample TOS formatted using 21st Century Skills*
 
 
 ## Step 1: I-fill out at i-submit ang Order Form
@@ -39,7 +44,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱120 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **4th Periodic Test**.
+Mag-send ka lang ng ₱245 para sa **4th Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **4th Periodic Test**. Sulitin mo na ang **Early Bird Promo**, KasaMath!
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
