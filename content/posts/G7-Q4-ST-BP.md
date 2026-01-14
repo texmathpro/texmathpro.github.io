@@ -25,7 +25,7 @@ draft: false
 - Add ka lang ng ₱80 kung gusto mo idagdag ang **4th Periodic Test**  
 - Para sa teachers na nagmamadali  
 
-[![Sample TOS formatted using Bloom’s Taxonomy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47dfR24kpoVepwVWAV2BVyJa9CNl9HTHm7CXtst5Qw1nrrv8JNJ_VzlAkfsxGb8_2E9pCTKYhEGNtggTNn1AA1z_LK8E0wodiRmWpBa5jVWo559spupcF5HUooYTWI3GdOnWtCdLlEOFfG0di5B-8oZ8QxvEzKG6nk68BiWL-AF2L58m_oUo912a4gIY/s16000/bloom.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47dfR24kpoVepwVWAV2BVyJa9CNl9HTHm7CXtst5Qw1nrrv8JNJ_VzlAkfsxGb8_2E9pCTKYhEGNtggTNn1AA1z_LK8E0wodiRmWpBa5jVWo559spupcF5HUooYTWI3GdOnWtCdLlEOFfG0di5B-8oZ8QxvEzKG6nk68BiWL-AF2L58m_oUo912a4gIY/s1643/bloom.png)
+[![Sample TOS formatted using Bloom’s Taxonomy](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)
 
 *Sample TOS formatted using Bloom’s Taxonomy*
 
@@ -66,4 +66,4 @@ Isesend ko ang files sa email address mo after ng payment.
 - **Table of Specifications**
   - XLSX format
 
-Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, : [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
+Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
