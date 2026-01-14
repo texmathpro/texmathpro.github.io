@@ -30,6 +30,7 @@ draft: false
 
 *Sample TOS formatted using Bloom’s Taxonomy*
 
+---
 
 ## Step 1: I-fill out at i-submit ang Order Form
 {{< iframe src="https://cityofsmiles.github.io/texmathpro-order-taker/" height="800" >}}
@@ -54,9 +55,7 @@ Mag-send ka lang ng ₱84 para sa **Summative test**. Magdagdag ka lang ng ₱80
 
 Isesend ko ang files sa email address mo after ng payment. 
 
----
-
-## Delivery Includes:
+### Delivery Includes:
 
 - **Test**
   - Test type: 50-item multiple choice test
@@ -66,5 +65,7 @@ Isesend ko ang files sa email address mo after ng payment.
   - Format: PDF, created using LaTeX
 - **Table of Specifications**
   - XLSX format
+
+---
 
 Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
