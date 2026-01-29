@@ -30,14 +30,15 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
 
 📥 I-fill out ang Order Form
 
-{{< iframe src="https://cityofsmiles.github.io/auto-order-form/" height="850" >}}
+{{< orderform >}}
 
 🛒 Payment Methods
-| Method | Account Details | Total Amount |
+| Method | Account Details | Payment Amount |
 |---|---|---|
-| 💳 ATM (Landbank) | 0695077289 | ₱230 |
-| 💸 GCash | 09128389571 | ₱245 (inc. fee) |
-| 💸 Maya | 09128389571 | ₱245 (inc. fee) |
+| 💳 ATM (Landbank) | 0695077289 | Exact Amount |
+| 💸 GCash | 09128389571 | Add ₱15 convenience fee |
+| 💸 Maya | 09128389571 | Add ₱15 convenience fee |
+
 > [!IMPORTANT]
 > Note: Pakisend po ang screenshot ng payment sa e-mail o sa aking Facebook Messenger. Isesend ko ang files sa inyong email agad pagkatapos ma-verify ang payment. Thank you!
 
