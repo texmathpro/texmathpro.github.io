@@ -17,8 +17,11 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
  * 🚀 Tipid ka sa oras – Hindi mo na kailangang sagutan ang activities nang sabay sa mga bata mo.
  * 🧠 Iwas Stress – Hayaan ang mga bata ang mag-check para mabawasan ang workload mo.
  * 🛡️ Iwas Cheating – Mas madaling mabantayan ang klase habang nagche-check sila.
+ 
+ ---
 
 
+---
 📑 Product Details
 | Feature | Details |
 |---|---|
@@ -28,10 +31,14 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
 | Price | 190|
 
 
+---
+
 📥 I-fill out ang Order Form
 
 {{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g9-q4-ak" height="850" >}}
 
+
+---
 
 🛒 Payment Methods
 | Method | Account Details | Payment Amount |
