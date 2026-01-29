@@ -40,7 +40,14 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
 | 💸 GCash | 09128389571 | Add ₱15 convenience fee |
 | 💸 Maya | 09128389571 | Add ₱15 convenience fee |
 
-> [!IMPORTANT]
+**Isend ang Screenshot ng Payment kahit saan dito:**
 
-> Note: Pakisend po ang screenshot ng payment sa e-mail o sa aking Facebook Messenger. Isesend ko ang files sa inyong email agad pagkatapos ma-verify ang payment. Thank you!
+- Email: [texmathpro@gmail.com](mailto:texmathpro@gmail.com)  
+- Facebook: https://m.me/jonathan.r.bacolod  
+- Telegram: https://t.me/Jonathan_Bacolod  
 
+Isesend ko ang files sa email address mo after ng payment. 
+
+---
+
+Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
