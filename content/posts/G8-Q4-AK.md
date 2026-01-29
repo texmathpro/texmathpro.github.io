@@ -22,13 +22,16 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
 📑 Product Details
 | Feature | Details |
 |---|---|
-| Content | 23 Answer Keys for Activities |
+| Content | 10 Answer Keys for Activities |
 | Paper Size | A4 Bond Paper |
 | File Format | PDF (Typeset in LaTeX) |
 | Price | 130|
-📥 How to Order
 
-👉 Click Here to Open the Order Form
+
+📥 I-fill out ang Order Form
+
+{{< iframe src="https://cityofsmiles.github.io/order-form/index.html" height="850" >}}
+
 🛒 Payment Methods
 | Method | Account Details | Total Amount |
 |---|---|---|
@@ -37,3 +40,4 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
 | 💸 Maya | 09128389571 | ₱245 (inc. fee) |
 > [!IMPORTANT]
 > Note: Pakisend po ang screenshot ng payment sa e-mail o sa aking Facebook Messenger. Isesend ko ang files sa inyong email agad pagkatapos ma-verify ang payment. Thank you!
+
