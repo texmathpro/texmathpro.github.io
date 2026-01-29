@@ -21,7 +21,7 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
  ---
 
 
-📑 Product Details
+📑 **Product Details**
 | Feature | Details |
 |---|---|
 | Content | 19 Answer Keys for Activities |
@@ -32,14 +32,14 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
 
 ---
 
-📥 I-fill out ang Order Form
+📥 **I-fill out ang Order Form**
 
 {{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g9-q4-ak" height="850" >}}
 
 
 ---
 
-🛒 Payment Methods
+🛒 **Payment Methods**
 | Method | Account Details | Payment Amount |
 |---|---|---|
 | 💳 ATM (Landbank) | 0695077289 | Exact Amount |
