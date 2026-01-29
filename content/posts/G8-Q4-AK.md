@@ -40,5 +40,6 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
 | 💸 Maya | 09128389571 | Add ₱15 convenience fee |
 
 > [!IMPORTANT]
+
 > Note: Pakisend po ang screenshot ng payment sa e-mail o sa aking Facebook Messenger. Isesend ko ang files sa inyong email agad pagkatapos ma-verify ang payment. Thank you!
 
