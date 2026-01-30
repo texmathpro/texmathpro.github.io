@@ -23,10 +23,7 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
  📑 **Product Details**
 | Feature | Details |
 |---|---|
-| Content | 
-
-
-10 Answer Keys for Activities |
+| Content | 10 Answer Keys for Activities |
 | Paper Size | A4 Bond Paper |
 | File Format | PDF (Typeset in LaTeX) |
 | Price | 130|
