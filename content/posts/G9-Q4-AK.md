@@ -23,12 +23,6 @@ Nahihirapan ka bang gumamit ng handouts, KasaMath, dahil walang answer key? Gust
  📑 **Product Details**
 | Feature | Details |
 |---|---|
-| Content | 
-
-
-📑 **Product Details**
-| Feature | Details |
-|---|---|
 | Content | 19 Answer Keys for Activities |
 | Paper Size | A4 Bond Paper |
 | File Format | PDF (Typeset in LaTeX) |
