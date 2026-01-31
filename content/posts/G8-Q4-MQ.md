@@ -33,7 +33,7 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, 
 
 
 
-4 Quizzes for the whole quarter |
+4 Quizzes |
 | Paper Size | A4 Bond Paper |
 | File Format | PDF (Typeset in LaTeX) |
 | Price | 100|
@@ -63,7 +63,6 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, 
  - Lesson 4.10: Calculating Probability of Simple Combined Events
  - Lesson 4.11: Experimental and Theoretical Probability Using the Fundamental Counting Principle
 
----
 
 
 ---
