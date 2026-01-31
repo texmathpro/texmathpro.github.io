@@ -46,30 +46,24 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, 
 {{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g8-q4-mq" height="850" >}}
 
 
-Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, KasaMath? 
+---
 
-✨  Kuha ka na ng Multiple Choice Quizzes with Answer Keys para:
+📑 **Topics Covered:**
+ - Lesson 4.1.1: Calculating the Range for Ungrouped Data
+ - Lesson 4.1.2: Calculating the Mean Deviation for Ungrouped Data
+ - Lesson 4.1.3: Measures of Variability for Ungrouped Data
+ - Lesson 4.2: Drawing Conclusions from Statistical Data Using Measures of Variability
+ - Lesson 4.3: Analyzing Graphs from Primary Data
+ - Lesson 4.4: Analyzing Graphs from Secondary Data
+ - Lesson 4.5: Theoretical vs Experimental Probability
+ - Lesson 4.6: Sample Space of an Experiment
+ - Lesson 4.7: Fundamental Counting Principle
+ - Lesson 4.8: Calculating Theoretical Probability by Listing Outcomes
+ - Lesson 4.9: Probability as a Measure of Chance
+ - Lesson 4.10: Calculating Probability of Simple Combined Events
+ - Lesson 4.11: Experimental and Theoretical Probability Using the Fundamental Counting Principle
 
- - Tipid ka sa oras at makapag-focus sa pagtuturo. 
- - Maganda at consistent ang formatting ng test questions at figures mo. 
- - Ready na ang answer key at di ka na magsasagot ng questions. 
- - Masanay ang students sa pagsagot ng multiple choice test. 
- - Parallel ang quiz items sa questions na lalabas sa Summative test. 
- 
- ---
- 
- 📑 **Product Details**
-| Feature | Details |
-|---|---|
-| Content | 
-
-
-
-
-
-
-
-
+---
 
 
 ---
