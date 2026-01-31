@@ -10,7 +10,7 @@ discountedUntil: "2026-01-03"
 draft: false
 ---
 
-Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo for the third quarter, KasaMath? 
+Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, KasaMath? 
 
 ✨  Kuha ka na ng Multiple Choice Quizzes with Answer Keys para:
 
@@ -33,7 +33,7 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo for the third 
 
 
 
-7.6 Quizzes for the whole quarter |
+4 Quizzes for the whole quarter |
 | Paper Size | A4 Bond Paper |
 | File Format | PDF (Typeset in LaTeX) |
 | Price | 100|
@@ -46,7 +46,7 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo for the third 
 {{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g9-q4-ak" height="850" >}}
 
 
-Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo for the third quarter, KasaMath? 
+Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, KasaMath? 
 
 ✨  Kuha ka na ng Multiple Choice Quizzes with Answer Keys para:
 
