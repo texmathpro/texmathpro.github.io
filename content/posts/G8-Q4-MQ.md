@@ -25,15 +25,7 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, 
  📑 **Product Details**
 | Feature | Details |
 |---|---|
-| Content | 
-
-
-
-
-
-
-
-4 Quizzes |
+| Content | 4 Quizzes |
 | Paper Size | A4 Bond Paper |
 | File Format | PDF (Typeset in LaTeX) |
 | Price | 100|
