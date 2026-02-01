@@ -2,7 +2,7 @@
 title: "Grade 8 Q4 Multiple-Choice Quizzes + Answer Keys"
 date: 2026-01-03
 productId: "G8-Q4-MQ"
-photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769865451/ui0vaoywulkopd2tove1.jpg"
+photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769910104/yoi7roeyz7m76lmxftit.jpg"
 priceRegular: 100
 priceDiscounted: 0
 isDiscounted: false
@@ -40,7 +40,8 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, 
 
 ---
 
-📑 **Topics Covered:**
+📑 **Topics Covered**
+
 **Quiz 4.1: Measures of Variability for Ungrouped Data** (30 items)
  - Lesson 4.1.1: Calculating the Range for Ungrouped Data
  - Lesson 4.1.2: Calculating the Mean Deviation for Ungrouped Data
