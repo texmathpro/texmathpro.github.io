@@ -2,7 +2,7 @@
 title: "4th Quarter Activity Answer Keys for Grade 9"
 date: 2026-01-03
 productId: "G9-Q4-AK"
-photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769670062/ftotbeou8hwwuqq1njk5.jpg"
+photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769865691/y4i39ahz5yynkgxtfecv.jpg"
 priceRegular: 190
 priceDiscounted: 0
 isDiscounted: false

@@ -2,7 +2,7 @@
 title: "Grade 8 Q4 Multiple-Choice Quizzes + Answer Keys"
 date: 2026-01-03
 productId: "G8-Q4-MQ"
-photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769854233/hklblcniz130f2qpfolj.jpg"
+photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769865451/ui0vaoywulkopd2tove1.jpg"
 priceRegular: 100
 priceDiscounted: 0
 isDiscounted: false
@@ -41,15 +41,22 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, 
 ---
 
 📑 **Topics Covered:**
+**Quiz 4.1: Measures of Variability for Ungrouped Data** (30 items)
  - Lesson 4.1.1: Calculating the Range for Ungrouped Data
  - Lesson 4.1.2: Calculating the Mean Deviation for Ungrouped Data
  - Lesson 4.1.3: Measures of Variability for Ungrouped Data
+
+**Quiz 4.2: Drawing Conclusions from Statistical Data: Variability and Graph Analysis** (30 items)
  - Lesson 4.2: Drawing Conclusions from Statistical Data Using Measures of Variability
  - Lesson 4.3: Analyzing Graphs from Primary Data
  - Lesson 4.4: Analyzing Graphs from Secondary Data
+
+**Quiz 4.3: Probability and Fundamental Counting Principle** (30 items) 
  - Lesson 4.5: Theoretical vs Experimental Probability
  - Lesson 4.6: Sample Space of an Experiment
  - Lesson 4.7: Fundamental Counting Principle
+
+**Quiz 4.4: Calculating Probability** (30 items) 
  - Lesson 4.8: Calculating Theoretical Probability by Listing Outcomes
  - Lesson 4.9: Probability as a Measure of Chance
  - Lesson 4.10: Calculating Probability of Simple Combined Events

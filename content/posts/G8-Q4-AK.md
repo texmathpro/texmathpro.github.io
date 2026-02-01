@@ -2,7 +2,7 @@
 title: "4th Quarter Activity Answer Keys for Grade 8"
 date: 2026-01-03
 productId: "G8-Q4-AK"
-photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769477140/mkjkaxfpkqyyvgji97nb.jpg"
+photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769865616/vqe43w60vdjtzkortl6h.jpg"
 priceRegular: 130
 priceDiscounted: 0
 isDiscounted: false
