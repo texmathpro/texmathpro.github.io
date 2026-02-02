@@ -57,13 +57,13 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, 
   - Lesson 4.10: Calculating Percentiles for Grouped Data
   - Lesson 4.11: Calculating Percentile Rank for Grouped Data
 
-**Quiz 4.03: Interpreting Quartiles, Deciles, and Percentiles** (23 items)
+**Quiz 4.03: Interpreting Quartiles, Deciles, and Percentiles** (20 items)
   - Lesson 4.12: Analyzing Computing and Interpreting Data Involving Quartiles
   - Lesson 4.13: Analyzing, Computing, and Interpreting Data Involving Deciles
   - Lesson 4.14: Analyzing Computing and Interpreting Data Involving Percentiles
   - Lesson 4.15: Analyzing Computing and Interpreting Data Involving Percentile Rank
 
-**Quiz 4.04: Problem Solving with Measures of Position** (60 items)
+**Quiz 4.04: Problem Solving with Measures of Position** (30 items)
   - Lesson 4.16: Solving and Interpreting Real-Life Word Problems Involving Quartiles
   - Lesson 4.17: Solving and Interpreting Real-Life Word Problems Involving Deciles
   - Lesson 4.18: Solving and Interpreting Real-Life Word Problems Involving Percentiles
