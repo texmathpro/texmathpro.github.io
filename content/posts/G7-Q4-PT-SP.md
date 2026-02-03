@@ -1,20 +1,21 @@
 ---
 title: "Grade 7 Q4 Periodic Test + TOS + Answer Key (Standard)"
-date: 2026-01-03
+date: 2026-02-03
 productId: "G7-Q4-PT-SP"
 photo: "https://i.imgur.com/0AkMMHo.jpeg"
 priceRegular: 165
 priceDiscounted: 115
-isDiscounted: false
-discountedUntil: "2026-01-03"
+isDiscounted: true
+discountedUntil: "2026-03-05"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at  Summative exam mo, KasaMath? Kuha ka na ng Standard Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at  Summative exam mo, KasaMath? Kuha ka na ng Standard Assessment Package habang naka-Early Bird Promo!*
 
 **Bakit perfect para sa’yo ang Standard Assessment Package?**
 
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
+- Tipid din sa budget dahil naka-**30% discount**.
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
 - Maaga kang makakapag-submit ng TOS sa head mo.  
@@ -42,7 +43,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱165 para sa **Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **Periodic Test**.
+Mag-send ka lang ng ₱115 para sa **Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **Periodic Test**. Sulitin mo na ang **Early Bird Promo**, KasaMath!
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
@@ -66,7 +67,7 @@ Isesend ko ang files sa email address mo after ng payment.
   - Format: PDF, created using LaTeX
 - **Table of Specifications**
   - XLSX format
-
+  
 ---
 
 Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
