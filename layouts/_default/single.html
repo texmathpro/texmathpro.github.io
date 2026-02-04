@@ -1,19 +1,20 @@
 {{ define "main" }}
 <article>
     <h1>{{ .Title }}</h1>
-    
+
     {{ if .Params.photo }}
     <img src="{{ .Params.photo }}" alt="{{ .Title }}">
     {{ end }}
-    
+
     <div class="price-section">
         {{ if .Params.isDiscounted }}
             {{ $regularPrice := .Params.priceRegular | float }}
             {{ $discountedPrice := .Params.priceDiscounted | float }}
+
             {{ if and (gt $regularPrice 0) (lt $discountedPrice $regularPrice) }}
                 {{ $discount := sub $regularPrice $discountedPrice }}
                 {{ $discountPercent := math.Round (mul (div $discount $regularPrice) 100) }}
-                
+
                 {{ if gt $discountPercent 0 }}
                     <span class="discount-indicator">{{ $discountPercent }}% OFF</span>
                     <br>
@@ -24,7 +25,7 @@
             <span class="price">₱{{ .Params.priceDiscounted }}</span>
             <br>
 
-            {{ $saleUntil := time.Parse "1/2/2006" .Params.discountedUntil }}
+            {{ $saleUntil := time.AsTime .Params.discountedUntil }}
             <span class="discount-badge">
                 On Sale Until {{ $saleUntil.Format "January 2, 2006" }}
             </span>
@@ -32,11 +33,11 @@
             <span class="price">₱{{ .Params.priceRegular }}</span>
         {{ end }}
     </div>
-    
+
     <div class="content">
         {{ .Content }}
     </div>
-    
+
     <p><small>Product ID: {{ .Params.productId }}</small></p>
 </article>
 {{ end }}
