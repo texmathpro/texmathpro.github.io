@@ -26,7 +26,7 @@
 
             {{ $saleUntil := time.Parse "1/2/2006" .Params.discountedUntil }}
             <span class="discount-badge">
-                On Sale Until {{ time.Format "January 2, 2006" $saleUntil }}
+                On Sale Until {{ $saleUntil.Format "January 2, 2006" }}
             </span>
         {{ else }}
             <span class="price">₱{{ .Params.priceRegular }}</span>
