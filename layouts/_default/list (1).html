@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<ul>
+{{ range .Pages }}
+    <li>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        {{ if .Params.isDiscounted }}
+            <span class="discount-badge">SALE</span>
+        {{ end }}
+        <p>Price: ₱{{ if .Params.isDiscounted }}{{ .Params.priceDiscounted }}{{ else }}{{ .Params.priceRegular }}{{ end }}</p>
+    </li>
+{{ end }}
+</ul>
+{{ end }}

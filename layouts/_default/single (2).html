@@ -6,7 +6,6 @@
     <img src="{{ .Params.photo }}" alt="{{ .Title }}">
     {{ end }}
 
-    {{ if or .Params.priceRegular .Params.priceDiscounted }}
     <div class="price-section">
         {{ if .Params.isDiscounted }}
             {{ $regularPrice := .Params.priceRegular | float }}
@@ -35,11 +34,10 @@
         {{ end }}
     </div>
 
-    <p><small>Product ID: {{ .Params.productId }}</small></p>
-    {{ end }}
-
     <div class="content">
         {{ .Content }}
     </div>
+
+    <p><small>Product ID: {{ .Params.productId }}</small></p>
 </article>
 {{ end }}
