@@ -1,8 +1,6 @@
 ---
-title: About
+title: About TeXMathPro
 ---
-
-## About TeXMathPro
 
 TeXMathPro is an aesthetics-oriented online store for time-constrained or technologically challenged high school Math teachers looking for professional-grade teaching materials and easy to use printable digital products. The focus is clarity, rigor, and classroom usability.
 
