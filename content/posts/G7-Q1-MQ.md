@@ -1,8 +1,8 @@
 ---
-title: "Grade 7 Q4 Multiple-Choice Quizzes + Answer Keys"
+title: "Grade 7 Q1 Multiple-Choice Quizzes + Answer Keys"
 date: 2026-01-03
-productId: "G7-Q4-MQ"
-photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1769928804/m3j84fshaxyuxowep0te.jpg"
+productId: "G7-Q1-MQ"
+photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1770873595/jzt2mkvvxfxztcvqgu3z.jpg"
 priceRegular: 125
 priceDiscounted: 0
 isDiscounted: false
@@ -35,36 +35,35 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this quarter, 
 
 📥 **I-fill out ang Order Form**
 
-{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-q4-mq" height="850" >}}
+{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-q1-mq" height="850" >}}
 
 
 ---
 
-📑 **Topics Covered**
+**Quiz 1.1: Regular and Irregular Polygons** (20 items)
+  - Lesson 1.01: Identifying and Constructing Regular and Irregular Polygons
+  - Lesson 1.02: Drawing Triangles Quadrilaterals and Regular Polygons with Given Angle Measures
+  - Lesson 1.03: Describing and Explaining Relationships Between Angle Pairs
 
-**Quiz 4.01: Solving Simple Equations** (30 items)
-  - Lesson 4.01: Solving Simple Equations Using Bar Models
-  - Lesson 4.02: Variables and Constants in Algebraic Expressions
-  - Lesson 4.03: Evaluating Algebraic Expressions
-  - Lesson 4.04: Translating Verbal Phrases to Algebraic Expressions
+**Quiz 1.2: Angles and Sides of Polygons** (34 items)  
+  - Lesson 1.04: Classifying Polygons Based on Their Properties
+  - Lesson 1.05: Relationship Between Exterior and Adjacent Interior Angles of a Polygon
+  - Lesson 1.06: Determining Angle Measures and Number of Sides of Polygons
 
-**Quiz 4.02: Evaluating Algebraic Expressions** (30 items)  
-  - Lesson 4.05: Properties of Equality
-  - Lesson 4.06: Solving for a Variable in a Formula
-  
-**Quiz 4.03: Rearranging Formula** (30 items)  
-  - Lesson 4.07: Writing Equations in Algebraic Form
-  - Lesson 4.08: Solving Equations with Non-Negative Unknowns
-  - Lesson 4.09: Solving Problems Involving Algebraic Expressions and Formulas
-  
-**Quiz 4.04: Outcomes from Experiments** (30 items)  
-  - Lesson 4.10: Collecting Data from Experiments
-  - Lesson 4.11: Expressing Outcomes in Words, Symbols, Tables, and Graphs
-  - Lesson 4.12: Solving Problems Using Experimental Outcomes
+**Quiz 1.3: Application of Percentages** (30 items)
+  - Lesson 1.07: Solving Problems Involving Percentage Increase and Decrease
+  - Lesson 1.08: Solving Money Problems Involving Percentages
+  - Lesson 1.09: Creating a Financial Plan
 
-**Quiz 4.05: Operations using Scientific Notation** (26 items)  
-  - Lesson 4.13: Writing Numbers in Scientific Notation
-  - Lesson 4.14: Operations on Numbers in Scientific Notation
+**Quiz 1.4: Uses of Rates** (20 items)
+  - Lesson 1.10: Identifying and Explaining the Uses of Rates
+  - Lesson 1.11: Solving Problems Involving Rates
+  - Lesson 1.12: Describing Rational Numbers as Fractions Decimals or Percentages
+
+**Quiz 1.5: Rational Numbers** (27 items)
+  - Lesson 1.13: Ordering Rational Numbers on a Number Line
+  - Lesson 1.14: Performing Operations on Rational Numbers
+
 
 
 
