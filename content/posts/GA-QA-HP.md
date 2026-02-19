@@ -27,6 +27,14 @@ Kung gusto mo namang suportahan ang mission ko na pagbibigay ng FREE Math teachi
 
 ## 📥 Download the Handouts
 
+- [Grade 7 Handouts for the 1st Quarter](https://drive.google.com/file/d/1e07C1gGKghsCOy22Ep5LOkVZHG1Oohct/view?usp=drivesdk)
+- [Grade 8 Handouts for the 1st Quarter](https://drive.google.com/file/d/1lYVPL8Hz5FbxsfLGVckwDlE6RFrbL0lm/view?usp=drivesdk)
+- [Grade 9 Handouts for the 1st Quarter](https://drive.google.com/file/d/1yBWEw831VnW41Q26C3Kwp1K4eWPYmqgG/view?usp=drivesdk)
+- [Grade 10 Handouts for the 1st Quarter](https://drive.google.com/file/d/1uDaplPaWUxLcLfbi01fHi2bEuRsW5pSy/view?usp=drivesdk)
+- [Grade 7 Handouts for the 2nd Quarter](https://drive.google.com/file/d/1gcw_guW01keoA_5EdpwvtirT8_n3JYfY/view?usp=drivesdk)
+- [Grade 8 Handouts for the 2nd Quarter](https://drive.google.com/file/d/19yLqWy-_NCZsNKpVX_CurRsrO0OM4hgZ/view?usp=drivesdk)
+- [Grade 9 Handouts for the 2nd Quarter](https://drive.google.com/file/d/1by87VOaKncI46lCcnBE-q-OvlVLkMnfW/view?usp=drivesdk)
+- [Grade 10 Handouts for the 2nd Quarter](https://drive.google.com/file/d/10YRHnEQCe2lmZt0moFqzS3qZMP_Kv3lk/view?usp=drivesdk)
 - [Grade 7 Handouts for the 3rd Quarter](https://drive.google.com/file/d/1nHC82ojm3P_QCwT7tUJ4g9cBGDbu1-iM/view?usp=drivesdk)
 - [Grade 8 Handouts for the 3rd Quarter](https://drive.google.com/file/d/15fCE2h4hIOibrc0mZOPq-htSd_LXNL0y/view?usp=drivesdk)
 - [Grade 9 Handouts for the 3rd Quarter](https://drive.google.com/file/d/1ST9ejN8enogNRv9v2qy0w9dwkVxhisbK/view?usp=drivesdk)
