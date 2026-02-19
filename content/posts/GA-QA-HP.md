@@ -12,8 +12,6 @@ discountedUntil: "2026-05-30"
 draft: false
 ---
 
-[![FREE Printable Math Handouts](https://res.cloudinary.com/dadubemrv/image/upload/v1771470535/pv600hy73vw3w5yfrdrm.jpg)](https://res.cloudinary.com/dadubemrv/image/upload/v1771470535/pv600hy73vw3w5yfrdrm.jpg)
-
 Nabibigatan ka ba sa laptop at projector para sa PowerPoint presentations mo, KasaMath?  
 Tinatamad ka ba, walang time, o nahihirapang gumawa ng PowerPoint?
 
