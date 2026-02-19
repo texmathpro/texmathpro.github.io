@@ -29,20 +29,28 @@ Kung gusto mo namang suportahan ang mission ko na pagbibigay ng FREE Math teachi
 
 ## 📥 Download the Handouts
 
-- [Grade 7 Handouts for the Fourth Quarter](https://texmathpro.blogspot.com/2025/01/grade-7-handouts-for-fourth-quarter.html?m=1)  
-- [Grade 7 Handouts for the Third Quarter](https://tinyurl.com/G7Q3Hd)  
-- [Grade 8 Handouts for the Fourth Quarter](https://texmathpro.blogspot.com/2025/01/grade-8-handouts-for-fourth-quarter.html?m=1)  
-- [Grade 8 Handouts for the Third Quarter](https://tinyurl.com/G8Q3Hd)  
-- [Grade 9 Handouts for the Fourth Quarter](https://texmathpro.blogspot.com/2025/01/grade-9-handouts-for-fourth-quarter.html?m=1)  
-- [Grade 9 Handouts for the Third Quarter](https://tinyurl.com/G9Q3Hd)  
-- [Grade 10 Handouts for the Fourth Quarter](https://texmathpro.blogspot.com/2025/01/grade-10-handouts-for-fourth-quarter.html?m=1)  
-- [Grade 10 Handouts for the Third Quarter](https://tinyurl.com/G10Q3Hd)  
+84.00
+TRUE
+Mar 5
+TRUE
+115.00
+TRUE
+Mar 5
+TRUE
+245.00
+TRUE
+Mar 5
+TRUE
+84.00
+TRUE
+Mar 5
+TRUE
 
 ---
 
 Kung gusto mo namang maging updated sa promos, FREEBIES, discounts, at Math-related content, mag-subscribe ka lang sa ating mailing list.  
 
-Mag-email ka lang ng **"SUBSCRIBE"** sa [texmathpro@gmail.com](mailto:texmathpro@gmail.com?subject=Subscribe&body=SUBSCRIBE).
+Mag-email ka lang ng **SUBSCRIBE** sa [texmathpro@gmail.com](mailto:texmathpro@gmail.com?subject=Subscribe&body=SUBSCRIBE).
 
 ---
 
