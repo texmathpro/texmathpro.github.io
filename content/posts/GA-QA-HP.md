@@ -29,14 +29,14 @@ Kung gusto mo namang suportahan ang mission ko na pagbibigay ng FREE Math teachi
 
 ## 📥 Download the Handouts
 
-- Grade 7 Handouts for the 3rd Quarter](https://drive.google.com/file/d/1nHC82ojm3P_QCwT7tUJ4g9cBGDbu1-iM/view?usp=drivesdk)
-- Grade 8 Handouts for the 3rd Quarter](https://drive.google.com/file/d/15fCE2h4hIOibrc0mZOPq-htSd_LXNL0y/view?usp=drivesdk)
-- Grade 9 Handouts for the 3rd Quarter](https://drive.google.com/file/d/1ST9ejN8enogNRv9v2qy0w9dwkVxhisbK/view?usp=drivesdk)
-- Grade 10 Handouts for the 3rd Quarter](https://drive.google.com/file/d/13jsRwchCw6wvDtPrbbnMxe6cMPl1Yiy2/view?usp=drivesdk)
-- Grade 7 Handouts for the 4th Quarter](https://drive.google.com/file/d/1JTuA7HDdcYP5GODu4ALF6s1lYeTowwD6/view?usp=drivesdk)
-- Grade 8 Handouts for the 4th Quarter](https://drive.google.com/file/d/1ZXTfw_Cnny2gO-6a8nTHElyKhlB95m1K/view?usp=drivesdk)
-- Grade 9 Handouts for the 4th Quarter](https://drive.google.com/file/d/1BgEtLZ9R7Dr7n-1sIam7OwNUERGgV-E8/view?usp=drivesdk)
-- Grade 10 Handouts for the 4th Quarter](https://drive.google.com/file/d/1OgCeVcpSkbfpJY_0x-13rA8a7xUHGXbS/view?usp=drivesdk)
+- [Grade 7 Handouts for the 3rd Quarter](https://drive.google.com/file/d/1nHC82ojm3P_QCwT7tUJ4g9cBGDbu1-iM/view?usp=drivesdk)
+- [Grade 8 Handouts for the 3rd Quarter](https://drive.google.com/file/d/15fCE2h4hIOibrc0mZOPq-htSd_LXNL0y/view?usp=drivesdk)
+- [Grade 9 Handouts for the 3rd Quarter](https://drive.google.com/file/d/1ST9ejN8enogNRv9v2qy0w9dwkVxhisbK/view?usp=drivesdk)
+- [Grade 10 Handouts for the 3rd Quarter](https://drive.google.com/file/d/13jsRwchCw6wvDtPrbbnMxe6cMPl1Yiy2/view?usp=drivesdk)
+- [Grade 7 Handouts for the 4th Quarter](https://drive.google.com/file/d/1JTuA7HDdcYP5GODu4ALF6s1lYeTowwD6/view?usp=drivesdk)
+- [Grade 8 Handouts for the 4th Quarter](https://drive.google.com/file/d/1ZXTfw_Cnny2gO-6a8nTHElyKhlB95m1K/view?usp=drivesdk)
+- [Grade 9 Handouts for the 4th Quarter](https://drive.google.com/file/d/1BgEtLZ9R7Dr7n-1sIam7OwNUERGgV-E8/view?usp=drivesdk)
+- [Grade 10 Handouts for the 4th Quarter](https://drive.google.com/file/d/1OgCeVcpSkbfpJY_0x-13rA8a7xUHGXbS/view?usp=drivesdk)
 
 ---
 
