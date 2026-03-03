@@ -6,7 +6,7 @@ photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1772509025/hxwykqgzwb
 priceRegular: 50
 priceDiscounted: 0.01
 isDiscounted: true
-discountedUntil: "2026-01-03"
+discountedUntil: "2027-01-03"
 draft: false
 ---
 
