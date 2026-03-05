@@ -469,7 +469,7 @@
                     const regularPrice = typeof regularPriceRaw === 'number' ? regularPriceRaw : parseFloat(regularPriceRaw) || 0;
                     const discountedPrice = typeof discountedPriceRaw === 'number' ? discountedPriceRaw : parseFloat(discountedPriceRaw) || regularPrice;
 
-                    // UPDATED: Check for explicit IsDiscounted OR if the discounted price is 0.01 (the freebie marker)
+                    // UPDATED: Check for explicit IsDiscounted OR if the discounted price is 0.01  (the freebie marker)
                     const isDiscounted = String(isDiscountedRaw).toLowerCase() === 'true' || discountedPrice === 0;
 
 
