@@ -5,17 +5,16 @@ productId: "G10-Q4-ST-BP"
 photo: "https://i.imgur.com/ePmNHp0.jpeg"
 priceRegular: 120
 priceDiscounted: 84
-isDiscounted: true
+isDiscounted: false
 discountedUntil: "2026-03-05"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at  Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package habang naka-Early Bird Promo!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at  Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
-- Tipid din sa budget dahil naka-**30% discount**.
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
 - Maaga kang makakapag-submit ng TOS sa head mo.  
@@ -40,7 +39,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱84 para sa **Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **Periodic Test**. Sulitin mo na ang **Early Bird Promo**, KasaMath!
+Mag-send ka lang ng ₱120 para sa **Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **Periodic Test**.
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
