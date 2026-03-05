@@ -4,7 +4,7 @@ date: 2026-01-03
 productId: "G8-Q4-ER"
 photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1772509025/hxwykqgzwboyqj9vgbdn.jpg"
 priceRegular: 50
-priceDiscounted: 0.01
+priceDiscounted: 0
 isDiscounted: true
 discountedUntil: "2027-01-03"
 draft: false
