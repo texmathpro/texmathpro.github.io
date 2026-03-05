@@ -1,7 +1,7 @@
 baseURL = 'https://texmathpro.github.io/'
 languageCode = 'en-us'
 title = 'TeXMathPro'
-googleAnalytics = "G-GKHF4V2720"
+googleAnalytics = "G-0BXPTH0XNR"
 
 [params]
   description = "Math Products"
