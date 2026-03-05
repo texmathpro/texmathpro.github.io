@@ -8,12 +8,7 @@
 
     {{ if or .Params.priceRegular .Params.priceDiscounted }}
     <div class="price-section">
-        {{/* 1. Check if the product is FREE first */}}
-        {{ if eq (.Params.priceDiscounted | float) 0.0 }}
-            <h2 class="free-badge" style="color: red; font-weight: bold; font-size: 2rem;">FREE</h2>
-        
-        {{/* 2. If not free, check for discounts */}}
-        {{ else if .Params.isDiscounted }}
+        {{ if .Params.isDiscounted }}
             {{ $regularPrice := .Params.priceRegular | float }}
             {{ $discountedPrice := .Params.priceDiscounted | float }}
 
@@ -36,7 +31,6 @@
                 On Sale Until {{ $saleUntil.Format "January 2, 2006" }}
             </span>
         {{ else }}
-            {{/* 3. Regular price display */}}
             <span class="price">₱{{ .Params.priceRegular }}</span>
         {{ end }}
     </div>
