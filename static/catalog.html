@@ -470,7 +470,7 @@
                     const discountedPrice = typeof discountedPriceRaw === 'number' ? discountedPriceRaw : parseFloat(discountedPriceRaw) || regularPrice;
 
                     // UPDATED: Check for explicit IsDiscounted OR if the discounted price is 0.01 (the freebie marker)
-                    const isDiscounted = String(isDiscountedRaw).toLowerCase() === 'true' || discountedPrice === 0;
+                    const isDiscounted = String(isDiscountedRaw).toLowerCase() === 'true' || discountedPrice === 0.01;
 
 
                     if (getCellValue(row, headerMap.ProductTitle) && regularPrice > 0) {
@@ -700,7 +700,7 @@
 
         function renderFreebieCard(product) {
             // Check if discounted price is exactly 0.01 (the freebie marker)
-            const isVisuallyFree = product.PricePHPDiscounted === 0;
+            const isVisuallyFree = product.PricePHPDiscounted === 0.01;
             const gradeText = product.GradeLevel ? `Grade ${product.GradeLevel}` : 'All Grades';
             
             const priceDisplay = isVisuallyFree ? 
@@ -761,7 +761,7 @@
 
         function renderProductCard(product) {
             const isDiscounted = product.IsDiscounted && product.PricePHPRegular > product.PricePHPDiscounted;
-            const isVisuallyFree = product.PricePHPDiscounted === 0;
+            const isVisuallyFree = product.PricePHPDiscounted === 0.01;
             const priceRegular = formatCurrency(product.PricePHPRegular);
             const priceDiscounted = formatCurrency(product.PricePHPDiscounted);
             
