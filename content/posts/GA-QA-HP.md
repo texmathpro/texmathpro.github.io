@@ -29,7 +29,7 @@ Kung gusto mo namang suportahan ang mission ko na pagbibigay ng FREE Math teachi
 
 - [Grade 7 Handouts for the 1st Quarter](https://drive.google.com/file/d/1e07C1gGKghsCOy22Ep5LOkVZHG1Oohct/view?usp=drivesdk)
 - [Grade 8 Handouts for the 1st Quarter](https://drive.google.com/file/d/1lYVPL8Hz5FbxsfLGVckwDlE6RFrbL0lm/view?usp=drivesdk)
-- [Grade 9 Handouts for the 1st Quarter](https://drive.google.com/file/d/1yBWEw831VnW41Q26C3Kwp1K4eWPYmqgG/view?usp=drivesdk)
+- [Grade 9 Handouts for the 1st Quarter](https://drive.google.com/file/d/1ixeiDEPIL0pRVS7j63M-TwfyVCainH1G/view?usp=drivesdk)
 - [Grade 10 Handouts for the 1st Quarter](https://drive.google.com/file/d/1uDaplPaWUxLcLfbi01fHi2bEuRsW5pSy/view?usp=drivesdk)
 - [Grade 7 Handouts for the 4th Quarter](https://drive.google.com/file/d/1JTuA7HDdcYP5GODu4ALF6s1lYeTowwD6/view?usp=drivesdk)
 - [Grade 8 Handouts for the 4th Quarter](https://drive.google.com/file/d/1ZXTfw_Cnny2gO-6a8nTHElyKhlB95m1K/view?usp=drivesdk)
