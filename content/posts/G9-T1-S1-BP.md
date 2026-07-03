@@ -72,7 +72,14 @@ Isesend ko ang files sa email address mo after ng payment.
 
 ---
 
+📑 **Competencies Covered**
+
+- Illustrate and describe point, line, ray, line segment, angle, and plane using models and geometric notations.
+- Construct perpendicular and parallel lines.
+- Identify the relationships between angles formed by parallel lines cut by a transversal.
+- Determine angle measures involving angle pairs, parallel and perpendicular lines, and parallel lines cut by a transversal.
+- Identify relations that are functions based on the definitions of relations and functions.
+- Determine the domain and range of a function expressed in different representations.
+---
+
 Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
-
-
-

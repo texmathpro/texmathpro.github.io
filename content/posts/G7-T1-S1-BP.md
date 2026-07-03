@@ -72,7 +72,14 @@ Isesend ko ang files sa email address mo after ng payment.
 
 ---
 
+📑 **Competencies Covered**
+
+- Draw and describe regular and irregular polygons with 5, 6, 8, or 10 sides, based on measurements of sides and angles, using a ruler and protractor.
+- Draw triangles, quadrilaterals, and regular polygons (5, 6, 8, or 10 sides) with given angle measures.
+- Describe and explain the relationships between angle pairs based on their measures.
+- Classify polygons according to the number of sides, whether they are regular or irregular.
+- Classify polygons whether they are convex or non-convex.
+- Deduce the relationship between the exterior angle and adjacent interior angle of a polygon.
+---
+
 Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
-
-
-
