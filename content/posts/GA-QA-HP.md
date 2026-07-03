@@ -1,7 +1,5 @@
 ---
-title: "Printable Handouts for Grades 7 and 9
-
-"
+title: "Printable Handouts for Grades 7 and 9"
 date: 2026-02-03
 productId: "GA-QA-HP"
 photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1771470535/pv600hy73vw3w5yfrdrm.jpg"
