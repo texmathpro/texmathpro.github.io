@@ -18,15 +18,14 @@ draft: false
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
 - Maaga kang makakapag-submit ng TOS sa head mo.  
-- Ready-to-print exam: buong term ang covered topics  
-- Table of Specifications (Bloom’s Taxonomy format)  
-- Number of days: 35 days  
-- 50-item Multiple Choice test with Answer Key  
-- Add ka lang ng ₱80 kung gusto mo idagdag ang **Periodic Test**  
+- Ready-to-print exam: sakto sa Budget of Work ang covered topics  
+- Table of Specifications (21st Century format)  
+- Number of days: 15 days  
+- 25-item Multiple Choice test with Answer Key  
 - Para sa teachers na nagmamadali  
 
-[![Sample TOS formatted using Bloom’s Taxonomy](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351319/vb4ulrsvcgdxqwn7fdha.png)
-*Sample TOS formatted using Bloom’s Taxonomy*
+[![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
+*Sample TOS formatted using 21st Century Skills*
 
 ---
 
@@ -39,7 +38,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱120 para sa **First Summative test**. Magdagdag ka lang ng ₱80 kung gusto mo ring isama ang **Periodic Test**.
+Mag-send ka lang ng ₱120 para sa **First Summative test**. 
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
@@ -56,7 +55,7 @@ Isesend ko ang files sa email address mo after ng payment.
 ### Delivery Includes:
 
 - **Test**
-  - Test type: 50-item multiple choice test
+  - Test type: 25-item multiple choice test
   - Dimensions: A4 bond paper
   - Format: PDF, created using LaTeX
 - **Answer Key**
@@ -67,3 +66,6 @@ Isesend ko ang files sa email address mo after ng payment.
 ---
 
 Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
+
+
+
