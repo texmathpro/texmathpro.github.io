@@ -3,8 +3,8 @@ title: "Printable Handouts for Grades 7 and 9"
 date: 2026-02-03
 productId: "GA-QA-HP"
 photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1771470535/pv600hy73vw3w5yfrdrm.jpg"
-priceRegular: 500
-priceDiscounted: 0
+priceRegular: 500.0
+priceDiscounted: 0.0
 isDiscounted: true
 discountedUntil: "2026-05-30"
 draft: false
