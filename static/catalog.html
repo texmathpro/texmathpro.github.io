@@ -117,7 +117,7 @@
         const manifestData = {
             name: "TeXMathPro Catalog",
             short_name: "TeXMathPro",
-            description: "Publication-quality math materials catalog.",
+            description: "Publication-quality Math Materials Catalog.",
             start_url: ".",
             display: "standalone",
             background_color: "#f7fafc",
@@ -242,6 +242,8 @@
 
         // Configuration
         const SPREADSHEET_ID = '1LaJ0Hq7V-GPoCupAk-sm1i3e2k4cuEbRpo7eLKoJ9SQ';
+
+      
         const GID = 0; 
         const GOOGLE_VIZ_URL = `https://docs.google.com/spreadsheets/d/${SPREADSHEET_ID}/gviz/tq?tqx=out:json&gid=${GID}`;
         
@@ -301,70 +303,28 @@
 
 
         // UPDATED FUNCTION: Handles the Share Click event.
-        function handleShareClick(productId, event) {
-            event.preventDefault(); 
-            event.stopPropagation(); 
-
+        async function handleShareClick(productId, event) {
+            event.preventDefault();
+            event.stopPropagation();
             const shareButton = event.currentTarget;
-            
-            // 1. Find the product
-            const product = allProducts.find(p => p.ProductID === productId) || freebieProducts.find(p => p.ProductID === productId);
-            if (!product) {
-                console.error('Product not found for sharing:', productId);
+            const product = allProducts.find(p=>p.ProductID===productId)||freebieProducts.find(p=>p.ProductID===productId);
+            if(!product)return;
+            const linkToCopy=buildProductFilterUrl(product);
+            if(navigator.share){
+              try{
+                await navigator.share({title:product.ProductTitle,text:product.ProductTitle,url:linkToCopy});
+                trackEvent('share_product_id_copied',{product_id:productId,shared_url:linkToCopy,method:'web_share_api'});
                 return;
+              }catch(e){ if(e.name==='AbortError') return; }
             }
-            
-            // 2. Generate the ProductID URL
-            const linkToCopy = buildProductFilterUrl(product);
-            
-            // 3. Copy to clipboard
-            if (navigator.clipboard && navigator.clipboard.writeText) {
-                navigator.clipboard.writeText(linkToCopy).then(() => {
-                    // 4. Visual Feedback
-                    const originalText = shareButton.innerHTML;
-                    
-                    // Simple text change for confirmation
-                    shareButton.innerHTML = '<span class="flex items-center"><svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Copied!</span>';
-                    shareButton.classList.remove('bg-gray-400', 'hover:bg-gray-500');
-                    shareButton.classList.add('bg-green-600', 'hover:bg-green-700');
-
-                    // 5. Revert after 2 seconds
-                    setTimeout(() => {
-                        shareButton.innerHTML = originalText;
-                        shareButton.classList.remove('bg-green-600', 'hover:bg-green-700');
-                        shareButton.classList.add('bg-gray-400', 'hover:bg-gray-500');
-                    }, 2000);
-                    
-                    // 6. GA Tracking
-                    trackEvent('share_product_id_copied', {
-                        product_id: productId, 
-                        shared_url: linkToCopy,
-                        method: 'clipboard_api'
-                    });
-                }).catch(err => {
-                    console.error('Could not copy text: ', err);
-                    alert(`Failed to copy link. Please manually copy: ${linkToCopy}`);
-                });
-            } else {
-                // Fallback for older browsers (less reliable)
-                const tempInput = document.createElement('input');
-                tempInput.value = linkToCopy;
-                document.body.appendChild(tempInput);
-                tempInput.select();
-                document.execCommand('copy');
-                document.body.removeChild(tempInput);
-                alert(`Link copied: ${linkToCopy}`);
-                
-                trackEvent('share_product_id_copied', {
-                    product_id: productId,
-                    shared_url: linkToCopy,
-                    method: 'fallback_alert'
-                });
+            if(navigator.clipboard&&navigator.clipboard.writeText){
+              await navigator.clipboard.writeText(linkToCopy);
+              const original=shareButton.innerHTML;
+              shareButton.innerHTML='✓ Copied!';
+              setTimeout(()=>shareButton.innerHTML=original,2000);
             }
         }
-        
-        // Expose the function globally so it can be called from the inline onclick attribute
-        window.handleShareClick = handleShareClick; 
+window.handleShareClick = handleShareClick; 
 
         // UPDATED FUNCTION: Parses URL parameters and updates the global state
         function parseUrlFilters() {
