@@ -2,8 +2,12 @@
 <article>
     <h1>{{ .Title }}</h1>
 
-    {{ if .Params.photo }}
-    <img src="{{ .Params.photo }}" alt="{{ .Title }}">
+    {{ with .Params.photos }}
+    <div class="product-gallery">
+        {{ range . }}
+        <img src="{{ . }}" alt="{{ $.Title }}" class="product-photo">
+        {{ end }}
+    </div>
     {{ end }}
 
     {{ if or .Params.priceRegular .Params.priceDiscounted }}
