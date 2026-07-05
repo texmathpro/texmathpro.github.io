@@ -2,7 +2,8 @@
 title: "Grade 9 T1 First Summative Test + TOS + Answer Key (Basic)"
 date: 2026-06-03
 productId: "G9-T1-S1-BP"
-photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1771581041/bwg96ufbzxt2qcdwzb1d.jpg"
+photos:
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1771581041/bwg96ufbzxt2qcdwzb1d.jpg"
 priceRegular: 120.0
 priceDiscounted: 84.0
 isDiscounted: false

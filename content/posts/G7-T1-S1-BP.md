@@ -2,7 +2,9 @@
 title: "Grade 7 T1 First Summative Test + TOS + Answer Key (Basic)"
 date: 2026-06-03
 productId: "G7-T1-S1-BP"
-photo: "https://res.cloudinary.com/dadubemrv/image/upload/v1771580685/s2on3kech3iylmxfxawn.jpg"
+photos:
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1771580685/s2on3kech3iylmxfxawn.jpg"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1771470535/pv600hy73vw3w5yfrdrm.jpg"
 priceRegular: 120.0
 priceDiscounted: 84.0
 isDiscounted: false
