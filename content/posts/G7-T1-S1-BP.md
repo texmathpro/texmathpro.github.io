@@ -4,7 +4,7 @@ date: 2026-06-03
 productId: "G7-T1-S1-BP"
 photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1771580685/s2on3kech3iylmxfxawn.jpg"
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1771470535/pv600hy73vw3w5yfrdrm.jpg"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783239684/ildm1srzrq4ycqopbjet.pdf"
 priceRegular: 120.0
 priceDiscounted: 84.0
 isDiscounted: false
