@@ -7,7 +7,7 @@ photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784259493/l9iore0gcpvw7hcecvvt.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784259496/fyqiathetzwuch9vy3t7.png"
 priceRegular: 90.0
-priceDiscounted: 0.0
+priceDiscounted: 80.0
 isDiscounted: false
 discountedUntil: "2026-06-03"
 draft: false
