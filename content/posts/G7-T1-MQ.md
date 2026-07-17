@@ -28,7 +28,7 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this term, Kas
  📑 **Product Details**
 | Feature | Details |
 |---|---|
-| Content | 3.6 Multiple-choice Quizzes |
+| Content | 9 Multiple-choice Quizzes |
 | Paper Size | A4 Bond Paper |
 | File Format | PDF (Typeset in LaTeX) |
 | Price | ₱90|
