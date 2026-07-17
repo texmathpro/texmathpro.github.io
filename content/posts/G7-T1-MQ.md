@@ -36,13 +36,7 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this term, Kas
 
 ---
 
-📥 **I-fill out ang Order Form**
-
-{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-t1-mq" height="850" >}}
-
-
----
-
+📑 **Topics Covered**
 
 **Quiz 1.01.1: Drawing Polygons by Side and Angle Measurements** (35 items)
   - Lesson 1.01.1: Drawing Regular Polygons by Side and Angle Measurements
@@ -85,6 +79,13 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this term, Kas
   - Lesson 1.10.1: Square Roots of Perfect Squares
   - Lesson 1.10.2: Cube Roots of Perfect Cubes
   - Lesson 1.10.3: Irrational Numbers and Their Location on the Number Line
+
+
+---
+
+📥 **I-fill out ang Order Form**
+
+{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-t1-mq" height="850" >}}
 
 
 ---
