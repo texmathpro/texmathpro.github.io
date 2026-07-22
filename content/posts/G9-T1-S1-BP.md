@@ -29,7 +29,10 @@ draft: false
 
 [![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
 
-*Sample TOS formatted using 21st Century Skills*---
+*Sample TOS formatted using 21st Century Skills*
+
+
+---
 
 📑 **Competencies Covered**
 
@@ -39,7 +42,6 @@ draft: false
 - Determine angle measures involving angle pairs, parallel and perpendicular lines, and parallel lines cut by a transversal.
 - Identify relations that are functions based on the definitions of relations and functions.
 - Determine the domain and range of a function expressed in different representations.
-
 
 ---
 
