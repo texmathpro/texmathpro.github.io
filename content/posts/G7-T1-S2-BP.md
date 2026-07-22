@@ -13,7 +13,7 @@ discountedUntil: "2026-06-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at  First Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Second Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 
@@ -28,7 +28,15 @@ draft: false
 - Para sa teachers na nagmamadali  
 
 [![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
-*Sample TOS formatted using 21st Century Skills*
+*Sample TOS formatted using 21st Century Skills*---
+
+📑 **Competencies Covered**
+
+- Determine the measures of angles of polygons.
+- Determine the number of sides of polygons.
+- Solve problems involving percentage increase and percentage decrease.
+- Solve money problems involving percentages (e. g., discount, commission, sales tax, simple interest).
+- Create a financial plan.
 
 ---
 
@@ -48,7 +56,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱120 para sa **First Summative test**. 
+Mag-send ka lang ng 120 para sa **Second Summative test**. 
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
@@ -71,16 +79,6 @@ Isesend ko ang files sa email address mo after ng payment.
 - **Answer Key**
   - Format: PDF, created using LaTeX
 - **Table of Specifications**
-  - XLSX format
-
----
-
-📑 **Competencies Covered**
-
-- Determine the measures of angles of polygons.
-- Determine the number of sides of polygons.
-- Solve problems involving percentage increase and percentage decrease.
-- Solve money problems involving percentages (e. g., discount, commission, sales tax, simple interest).
-- Create a financial plan.---
+  - XLSX format---
 
 Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 

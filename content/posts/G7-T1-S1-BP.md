@@ -14,7 +14,7 @@ discountedUntil: "2026-06-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at  First Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at First Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 
@@ -72,9 +72,7 @@ Isesend ko ang files sa email address mo after ng payment.
 - **Answer Key**
   - Format: PDF, created using LaTeX
 - **Table of Specifications**
-  - XLSX format
-
----
+  - XLSX format---
 
 📑 **Competencies Covered**
 
