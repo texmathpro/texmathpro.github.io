@@ -14,6 +14,9 @@ discountedUntil: "2026-06-03"
 draft: false
 ---
 
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at First Summative test mo, Grade 9 KasaMath? Kuha ka na ng Basic Assessment Package!*
+
+**Bakit perfect para sa’yo ang Basic Assessment Package?**
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
@@ -25,6 +28,7 @@ draft: false
 - Para sa teachers na nagmamadali  
 
 [![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
+
 *Sample TOS formatted using 21st Century Skills*---
 
 📑 **Competencies Covered**
@@ -36,6 +40,49 @@ draft: false
 - Identify relations that are functions based on the definitions of relations and functions.
 - Determine the domain and range of a function expressed in different representations.
 
+
+---
+
+## Step 1: I-fill out at i-submit ang Order Form thru email, Messenger, or Telegram.
+
+- Name:
+- Email address:
+- Grade level:
+- Region:
+- Division:
+- Name of School:
+- Address of School:
+
+---
+
+## Step 2: Payment and Delivery
+
+### Payment Methods
+
+Mag-send ka lang ng ₱60 para sa **First Summative test**. 
+
+- **Landbank**: 0695077289 (Jonathan R. Bacolod)  
+- **GCash**: 09128389571 (Jonathan Bacolod)  
+- **Maya**: 09128389571 (Jonathan Bacolod)  
+
+**Isend ang Order Form at Screenshot ng Payment kahit saan dito:**
+
+- Email: [texmathpro@gmail.com](mailto:texmathpro@gmail.com)  
+- Facebook: https://m.me/jonathan.r.bacolod  
+- Telegram: https://t.me/Jonathan_Bacolod  
+
+Isesend ko ang files sa email address mo after ng payment. 
+
+### Delivery Includes:
+
+- **Test**
+  - Test type: 25-item multiple choice test
+  - Dimensions: A4 bond paper
+  - Format: PDF, created using LaTeX
+- **Answer Key**
+  - Format: PDF, created using LaTeX
+- **Table of Specifications**
+  - XLSX format
 
 ---
 
