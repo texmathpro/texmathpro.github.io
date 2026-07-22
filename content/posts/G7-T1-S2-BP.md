@@ -28,7 +28,9 @@ draft: false
 - Para sa teachers na nagmamadali  
 
 [![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
-*Sample TOS formatted using 21st Century Skills*---
+*Sample TOS formatted using 21st Century Skills*
+
+---
 
 📑 **Competencies Covered**
 
@@ -81,4 +83,4 @@ Isesend ko ang files sa email address mo after ng payment.
 - **Table of Specifications**
   - XLSX format---
 
-Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
+Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com).
