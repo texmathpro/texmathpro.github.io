@@ -84,4 +84,4 @@ Isesend ko ang files sa email address mo after ng payment.
 - Deduce the relationship between the exterior angle and adjacent interior angle of a polygon.
 ---
 
-Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
+Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com).

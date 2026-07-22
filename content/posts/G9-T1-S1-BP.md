@@ -84,4 +84,4 @@ Isesend ko ang files sa email address mo after ng payment.
 - Determine the domain and range of a function expressed in different representations.
 ---
 
-Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com). 
+Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com).
