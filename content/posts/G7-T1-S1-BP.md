@@ -82,6 +82,8 @@ Isesend ko ang files sa email address mo after ng payment.
 - Classify polygons according to the number of sides, whether they are regular or irregular.
 - Classify polygons whether they are convex or non-convex.
 - Deduce the relationship between the exterior angle and adjacent interior angle of a polygon.
+
+
 ---
 
 Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com).

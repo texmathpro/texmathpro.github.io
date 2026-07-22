@@ -58,7 +58,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng 120 para sa **Second Summative test**. 
+Mag-send ka lang ng ₱120 para sa **Second Summative test**. 
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
@@ -81,6 +81,8 @@ Isesend ko ang files sa email address mo after ng payment.
 - **Answer Key**
   - Format: PDF, created using LaTeX
 - **Table of Specifications**
-  - XLSX format---
+  - XLSX format
+
+---
 
 Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](mailto:texmathpro@gmail.com).
