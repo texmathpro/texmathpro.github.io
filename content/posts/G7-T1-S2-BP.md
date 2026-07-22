@@ -16,7 +16,6 @@ draft: false
 *Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Second Summative test mo, Grade 7 KasaMath? Kuha ka na ng Basic Assessment Package!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
-
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
