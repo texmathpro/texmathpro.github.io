@@ -13,7 +13,7 @@ discountedUntil: "2026-06-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Second Summative exam mo, KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Second Summative test mo, Grade 7KasaMath? Kuha ka na ng Basic Assessment Package!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 
