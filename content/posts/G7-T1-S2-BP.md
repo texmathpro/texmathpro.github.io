@@ -6,14 +6,14 @@ photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784692768/blzn2f4qf4csagllrdmj.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784692772/mlwmihwoocbpcd5of6rx.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784692776/adpmufdqkz5qxw5yzj0p.png"
-priceRegular: 120.0
-priceDiscounted: 84.0
+priceRegular: 60.0
+priceDiscounted: 50.0
 isDiscounted: false
 discountedUntil: "2026-06-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Second Summative test mo, Grade 7KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Second Summative test mo, Grade 7 KasaMath? Kuha ka na ng Basic Assessment Package!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 
@@ -58,7 +58,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱120 para sa **Second Summative test**. 
+Mag-send ka lang ng ₱60 para sa **Second Summative test**. 
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
