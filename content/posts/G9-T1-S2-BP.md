@@ -1,11 +1,12 @@
 ---
-title: "Grade 7 T1 Second Summative Test + TOS + Answer Key (Basic)"
+title: "Grade 9 T1 Second Summative Test + TOS + Answer Key (Basic)"
 date: 2026-06-06
-productId: "G7-T1-S2-BP"
+productId: "G9-T1-S2-BP"
 photos:
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1784692768/blzn2f4qf4csagllrdmj.png"
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1784692772/mlwmihwoocbpcd5of6rx.png"
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1784692776/adpmufdqkz5qxw5yzj0p.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783263602/yd7hsdwqb5dk19s6pakw.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783263605/ujoydnhzuhsnv7yic56j.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783263608/d8tvcndvdvbcscplmsni.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783263611/xnrnsjt720lvbgoycchm.png"
 priceRegular: 60.0
 priceDiscounted: 50.0
 isDiscounted: false
@@ -13,7 +14,7 @@ discountedUntil: "2026-06-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Second Summative test mo, Grade 7 KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Second Summative test mo, Grade 9 KasaMath? Kuha ka na ng Basic Assessment Package!*
 
 **Bakit perfect para sa’yo ang Basic Assessment Package?**
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
@@ -33,11 +34,12 @@ draft: false
 
 📑 **Competencies Covered**
 
-- Determine the measures of angles of polygons.
-- Determine the number of sides of polygons.
-- Solve problems involving percentage increase and percentage decrease.
-- Solve money problems involving percentages (e. g., discount, commission, sales tax, simple interest).
-- Create a financial plan.
+- Illustrate and describe point, line, ray, line segment, angle, and plane using models and geometric notations.
+- Construct perpendicular and parallel lines.
+- Identify the relationships between angles formed by parallel lines cut by a transversal.
+- Determine angle measures involving angle pairs, parallel and perpendicular lines, and parallel lines cut by a transversal.
+- Identify relations that are functions based on the definitions of relations and functions.
+- Determine the domain and range of a function expressed in different representations.
 
 ---
 
