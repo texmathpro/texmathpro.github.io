@@ -3,12 +3,17 @@
 {{- range where .Site.RegularPages "Section" "posts" }}
 {{- if not $first }},{{ end }}
 {{- $first = false }}
+
 {{ .File.ContentBaseName | jsonify }}: {
     "title": {{ .Title | jsonify }},
     "url": {{ .Permalink | jsonify }},
-    "price": {{ .Params.price | default 0 }},
+    "priceRegular": {{ .Params.priceRegular }},
+    "priceDiscounted": {{ .Params.priceDiscounted }},
+    "isDiscounted": {{ .Params.isDiscounted }},
+    "price": {{ if .Params.isDiscounted }}{{ .Params.priceDiscounted }}{{ else }}{{ .Params.priceRegular }}{{ end }},
     "category": {{ .Params.category | jsonify }},
     "grade": {{ .Params.grade | jsonify }}
 }
+
 {{- end }}
 }
