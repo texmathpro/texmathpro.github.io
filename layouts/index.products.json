@@ -4,7 +4,7 @@
 {{- if not $first }},{{ end }}
 {{- $first = false }}
 
-{{ .File.ContentBaseName | jsonify }}: {
+{{ lower .File.ContentBaseName | jsonify }}: {
     "title": {{ .Title | jsonify }},
     "url": {{ .Permalink | jsonify }},
     "priceRegular": {{ .Params.priceRegular }},
