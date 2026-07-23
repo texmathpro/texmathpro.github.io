@@ -1,0 +1,11 @@
+{
+{{- $first := true -}}
+{{- range where .Site.RegularPages "Section" "posts" }}
+    {{- if not $first }},{{ end }}
+    {{- $first = false }}
+    {{ .File.ContentBaseName | jsonify }}: {
+        "title": {{ .Title | jsonify }},
+        "url": {{ .Permalink | jsonify }}
+    }
+{{- end }}
+}

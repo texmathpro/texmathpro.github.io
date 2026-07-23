@@ -6,3 +6,12 @@ googleAnalytics = "G-0BXPTH0XNR"
 [params]
   description = "Math Products"
   logo = "https://i.imgur.com/kiFfMas.jpeg"
+
+[outputFormats.Products]
+mediaType = "application/json"
+baseName = "products"
+isPlainText = true
+notAlternative = true
+
+[outputs]
+home = ["HTML", "RSS", "Products"]
