@@ -43,17 +43,9 @@ draft: false
 
 ---
 
-## Step 1: I-fill out at i-submit ang Order Form thru email, Messenger, or Telegram.
+## Step 1: I-fill out at i-submit ang Order Form.
 
-- Name:
-- Email address:
-- Grade level:
-- Region:
-- Division:
-- Name of School:
-- Address of School:
-
----
+{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g9-t1-s2-bp" height="850" >}}
 
 ## Step 2: Payment and Delivery
 
@@ -65,7 +57,7 @@ Mag-send ka lang ng ₱60 para sa **Second Summative test**.
 - **GCash**: 09128389571 (Jonathan Bacolod)  
 - **Maya**: 09128389571 (Jonathan Bacolod)  
 
-**Isend ang Order Form at Screenshot ng Payment kahit saan dito:**
+**Isend ang Screenshot ng Payment kahit saan dito:**
 
 - Email: [texmathpro@gmail.com](mailto:texmathpro@gmail.com)  
 - Facebook: https://m.me/jonathan.r.bacolod  
