@@ -44,15 +44,9 @@ draft: false
 
 ---
 
-## Step 1: I-fill out at i-submit ang Order Form thru email, Messenger, or Telegram.
+## Step 1: I-fill out at i-submit ang Order Form.
 
-- Name:
-- Email address:
-- Grade level:
-- Region:
-- Division:
-- Name of School:
-- Address of School:
+{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-t1-s1-bp" height="850" >}}
 
 ---
 
