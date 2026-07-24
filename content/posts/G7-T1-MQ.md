@@ -91,6 +91,7 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this term, Kas
 ---
 
 🛒 **Payment Methods**
+
 Mag-send ka lang ng ₱89 para sa **Multiple-choice Quizzes**.
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
