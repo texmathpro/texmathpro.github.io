@@ -1,5 +1,5 @@
 ---
-title: "Grade 9 T1 Second Summative Test + TOS + Answer Key (Basic)"
+title: "Grade 9 T1 Second Summative Test + Answer Key (Basic)"
 date: 2026-06-06
 productId: "G9-T1-S2-BP"
 photos:
