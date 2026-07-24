@@ -6,8 +6,8 @@ photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784259489/jon7ha1w9jssifhlph7u.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784259493/l9iore0gcpvw7hcecvvt.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784259496/fyqiathetzwuch9vy3t7.png"
-priceRegular: 90.0
-priceDiscounted: 80.0
+priceRegular: 89.0
+priceDiscounted: 79.0
 isDiscounted: false
 discountedUntil: "2026-06-03"
 draft: false
@@ -31,7 +31,7 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this term, Kas
 | Content |9 Multiple-choice Quizzes |
 | Paper Size | A4 Bond Paper |
 | File Format | PDF (Typeset in LaTeX) |
-| Price | ₱90|
+| Price | ₱89|
 
 
 ---
@@ -91,11 +91,11 @@ Tinatamad ka ba, walang time, o nahihirapang gumawa ng quizzes mo this term, Kas
 ---
 
 🛒 **Payment Methods**
-| Method | Account Details | Payment Amount |
-|---|---|---|
-| 💳 ATM (Landbank) | 0695077289 | Exact Amount |
-| 💸 GCash | 09128389571 | Add ₱15 convenience fee |
-| 💸 Maya | 09128389571 | Add ₱15 convenience fee |
+Mag-send ka lang ng ₱89 para sa **
+
+Multiple-choice Quizzes**.- **Landbank**: 0695077289 (Jonathan R. Bacolod)  
+- **GCash**: 09128389571 (Jonathan Bacolod)  
+- **Maya**: 09128389571 (Jonathan Bacolod)  
 
 **Isend ang Screenshot ng Payment kahit saan dito:**
 
@@ -107,4 +107,4 @@ Isesend ko ang files sa email address mo after ng payment.
 
 ---
 
-Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](https://texmathpro.github.io/contact/). 
+Salamat sa pagsuporta sa **TeXMathPro, KasaMath**! Kung may tanong o suggestion ka, [kontakin mo lang ako](https://texmathpro.github.io/contact/).

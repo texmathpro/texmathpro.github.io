@@ -6,8 +6,8 @@ photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784731784/ptqhzxe6hdaphiivprrc.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784731787/jc6dwnedukuiwimgdgxv.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1784731789/aidqozqvzsxtxmtppi1c.png"
-priceRegular: 60.0
-priceDiscounted: 50.0
+priceRegular: 59.0
+priceDiscounted: 49.0
 isDiscounted: false
 discountedUntil: "2026-06-03"
 draft: false
@@ -51,7 +51,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱60 para sa **Second Summative test**. 
+Mag-send ka lang ng ₱59 para sa **Second Summative test**. 
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
