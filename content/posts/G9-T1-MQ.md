@@ -3,7 +3,9 @@ title: "Grade 9 T1 Multiple-Choice Quizzes + Answer Keys"
 date: 2026-06-03
 productId: "G9-T1-MQ"
 photos:
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1770982592/npoqdwippiz4cxvg9bii.jpg"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1784868820/ozzzxppeyyvj0s2tjymk.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1784868830/kgezh16t4knvga2qdead.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1784868834/juzddujgsxbdnu454ck5.png"
 priceRegular: 99.0
 priceDiscounted: 89.0
 isDiscounted: false
