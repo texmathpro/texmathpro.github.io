@@ -19,16 +19,8 @@ draft: false
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
-- Maaga kang makakapag-submit ng TOS sa head mo.  
 - Ready-to-print exam: sakto sa Budget of Work ang covered topics  
-- Table of Specifications (21st Century format)  
-- Number of days: 15 days  
-- 25-item Multiple Choice test with Answer Key  
-- Para sa teachers na nagmamadali  
-
-[![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
-
-*Sample TOS formatted using 21st Century Skills*
+- Number of days: 
 
 ---
 
