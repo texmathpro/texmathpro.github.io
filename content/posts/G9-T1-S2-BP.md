@@ -20,7 +20,9 @@ draft: false
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
 - Ready-to-print exam: sakto sa Budget of Work ang covered topics  
-- Number of days: 
+- Number of days: 15 days  
+- 25-item Multiple Choice test with Answer Key  
+- Para sa teachers na nagmamadali at hindi kailangan ang TOS
 
 ---
 
@@ -65,8 +67,6 @@ Isesend ko ang files sa email address mo after ng payment.
   - Format: PDF, created using LaTeX
 - **Answer Key**
   - Format: PDF, created using LaTeX
-- **Table of Specifications**
-  - XLSX format
 
 ---
 
