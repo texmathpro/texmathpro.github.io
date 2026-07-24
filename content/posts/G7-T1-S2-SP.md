@@ -22,7 +22,9 @@ draft: false
 - Ready-to-print exam: sakto sa Budget of Work ang covered topics  
 - Number of days: 15 days  
 - 25-item Multiple Choice test with Answer Key  
-- Bagay sa teachers na gusto ng kumpletong exam, answer key, at TOS[![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
+- Bagay sa teachers na gusto ng kumpletong exam, answer key, at TOS
+
+[![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
 
 *Sample TOS formatted using 21st Century Skills*
 
@@ -68,6 +70,8 @@ Isesend ko ang files sa email address mo after ng payment.
   - Format: PDF, created using LaTeX
 - **Answer Key**
   - Format: PDF, created using LaTeX
+- **Table of Specifications**
+  - XLSX format
 
 ---
 
