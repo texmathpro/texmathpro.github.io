@@ -1,20 +1,20 @@
 ---
-title: "Grade 7 T1 First Summative Test + Answer Key + TOS (Standard)"
+title: "Grade 9 T1 First Summative Test + Answer Key + TOS (Standard)"
 date: 2026-06-06
-productId: "G7-T1-S1-SP"
+productId: "G9-T1-S1-SP"
 photos:
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783262649/xa3ma5xtgdbpiti2pulm.png"
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783262653/xelrwfv3qo9fte8tcav5.png"
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783262656/erime3c8h1ngvdbdrwdu.png"
-  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783262658/s6wrnagjw7rwy2jvrk9h.png"
-priceRegular: 79.0
-priceDiscounted: 69.0
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783263602/yd7hsdwqb5dk19s6pakw.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783263605/ujoydnhzuhsnv7yic56j.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783263608/d8tvcndvdvbcscplmsni.png"
+  - "https://res.cloudinary.com/dadubemrv/image/upload/v1783263611/xnrnsjt720lvbgoycchm.png"
+priceRegular: 59.0
+priceDiscounted: 49.0
 isDiscounted: false
 discountedUntil: "2026-06-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at First Summative test mo, Grade 7 KasaMath? Kuha ka na ng Standard Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at First Summative test mo, Grade 9 KasaMath? Kuha ka na ng Standard Assessment Package!*
 
 **Bakit perfect para sa’yo ang Standard Assessment Package?**
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
@@ -35,24 +35,24 @@ draft: false
 
 📑 **Competencies Covered**
 
-- Draw and describe regular and irregular polygons with 5, 6, 8, or 10 sides, based on measurements of sides and angles, using a ruler and protractor.
-- Draw triangles, quadrilaterals, and regular polygons (5, 6, 8, or 10 sides) with given angle measures.
-- Describe and explain the relationships between angle pairs based on their measures.
-- Classify polygons according to the number of sides, whether they are regular or irregular.
-- Classify polygons whether they are convex or non-convex.
-- Deduce the relationship between the exterior angle and adjacent interior angle of a polygon.
+- Illustrate and describe point, line, ray, line segment, angle, and plane using models and geometric notations.
+- Construct perpendicular and parallel lines.
+- Identify the relationships between angles formed by parallel lines cut by a transversal.
+- Determine angle measures involving angle pairs, parallel and perpendicular lines, and parallel lines cut by a transversal.
+- Identify relations that are functions based on the definitions of relations and functions.
+- Determine the domain and range of a function expressed in different representations.
 
 ---
 
 ## Step 1: I-fill out at i-submit ang Order Form.
 
-{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-t1-s1-sp" height="850" >}}
+{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g9-t1-s1-sp" height="850" >}}
 
 ## Step 2: Payment and Delivery
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱79 para sa **First Summative test**. 
+Mag-send ka lang ng ₱59 para sa **First Summative test**. 
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
