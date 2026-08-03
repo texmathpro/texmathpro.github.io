@@ -42,4 +42,4 @@ Mag-email ka lang ng **SUBSCRIBE** sa [texmathpro@gmail.com](mailto:texmathpro@g
 [Jonathan Bacolod](https://texmathpro.github.io/about/)  
 Owner and CEO  
 [TeXMathPro](https://texmathpro.github.io/): Math Teaching Beautified  
-[texmathpro@gmail.com](mailto:texmathpro@gmail.com?subject=Subscribe&body=SUBSCRIBE)
+[texmathpro@gmail.com](mailto:texmathpro@gmail.com?subject=Subscribe&body=SUBSCRIBE)<script async src=https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7985969464758429crossorigin=anonymous></script>
