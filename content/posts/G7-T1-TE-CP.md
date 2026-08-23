@@ -1,5 +1,5 @@
 ---
-title: "Grade 7 T1 Term Exam + TOS + Answer Key (Premium)"
+title: "Grade 7 T1 Term Exam + TOS + Answer Key (Custom)"
 date: 2026-06-03
 productId: "G7-T1-TE-CP"
 photos:
