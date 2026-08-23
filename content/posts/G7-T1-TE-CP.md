@@ -27,7 +27,11 @@ draft: false
 - Number of days: pwede kahit ilan
 - Number of items: kahit ilan basta maximum of 5025 days  
 - 50-item Multiple Choice test with Answer Key  
-- Para sa teachers na nagmamadali at hindi kailangan ang TOS
+- Perfect sa teachers na gusto ng pasadyang exam
+
+[![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
+
+*Sample TOS formatted using 21st Century Skills*
 
 ---
 

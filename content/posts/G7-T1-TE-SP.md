@@ -26,7 +26,11 @@ draft: false
 - Table of Specifications using the 21st Century format
 - Number of days: 25 days  
 - 50-item Multiple Choice test with Answer Key  
-- Para sa teachers na nagmamadali at hindi kailangan ang TOS
+- Bagay sa teachers na gusto ng kumpletong exam, answer key, at TOS
+
+[![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
+
+*Sample TOS formatted using 21st Century Skills*
 
 ---
 
