@@ -25,8 +25,7 @@ draft: false
 - Maaga kang makakapag-submit ng TOS sa head mo.  
 - Table of Specifications using the 21st Century format
 - Number of days: pwede kahit ilan
-- Number of items: kahit ilan basta maximum of 5025 days  
-- 50-item Multiple Choice test with Answer Key  
+- Number of items: kahit ilan basta maximum of 50
 - Perfect sa teachers na gusto ng pasadyang exam
 
 [![Sample TOS formatted using 21st Century Skills](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)](https://res.cloudinary.com/dadubemrv/image/upload/v1768351176/tv5zwilsnzrad6r2q6sw.png)
