@@ -77,6 +77,8 @@ Isesend ko ang files sa email address mo after ng payment.
   - Format: PDF, created using LaTeX
 - **Answer Key**
   - Format: PDF, created using LaTeX
+- **Table of Specifications**
+  - XLSX format
 
 ---
 
