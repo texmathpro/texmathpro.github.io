@@ -1,27 +1,29 @@
 ---
-title: "Grade 7 T1 Term Exam + Answer Key (Basic)"
+title: "Grade 7 T1 Term Exam + TOS + Answer Key (Standard)"
 date: 2026-06-03
-productId: "G7-T1-TE-BP"
+productId: "G7-T1-TE-SP"
 photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1787464873/tecspvimjjmukoar4zbb.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1787464876/xbrtpio296qgy3j7oujs.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1787464879/jg5ya8r4c7tclyqtbcix.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1787464881/i4flhlzmeex8qigeggdy.png"
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1787464884/dcphz1r95ezhrflugxgu.png"
-priceRegular: 119.0
-priceDiscounted: 84.0
+priceRegular: 169.0
+priceDiscounted: 115.0
 isDiscounted: false
 discountedUntil: "2026-06-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng Term Exam mo, Grade 7 KasaMath? Kuha ka na ng Basic Assessment Package!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng TOS at Term Exam mo, Grade 7 KasaMath? Kuha ka na ng Standard Assessment Package!*
 
-**Bakit perfect para sa’yo ang Basic Assessment Package?**
+**Bakit perfect para sa’yo ang Standard Assessment Package?**
 - Makakatipid ka sa oras kaya makakapaghabol pa ng lessons.  
 - Maganda at consistent ang formatting ng test questions at figures.  
 - Ready na ang answer key kaya mas madali at mabilis ang pagche-check.  
 - Ready-to-print exam: sakto sa Budget of Work ang covered topics  
+- Maaga kang makakapag-submit ng TOS sa head mo.  
+- Table of Specifications using the 21st Century format
 - Number of days: 25 days  
 - 50-item Multiple Choice test with Answer Key  
 - Para sa teachers na nagmamadali at hindi kailangan ang TOS---
@@ -41,13 +43,13 @@ draft: false
 
 ## Step 1: I-fill out at i-submit ang Order Form.
 
-{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-t1-te-bp" height="850" >}}
+{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-t1-te-sp" height="850" >}}
 
 ## Step 2: Payment and Delivery
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱119 para sa **Term Exam**. 
+Mag-send ka lang ng ₱169 para sa **Term Exam**. 
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
