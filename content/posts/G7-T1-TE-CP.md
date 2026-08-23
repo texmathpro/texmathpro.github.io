@@ -27,7 +27,9 @@ draft: false
 - Number of days: pwede kahit ilan
 - Number of items: kahit ilan basta maximum of 5025 days  
 - 50-item Multiple Choice test with Answer Key  
-- Para sa teachers na nagmamadali at hindi kailangan ang TOS---
+- Para sa teachers na nagmamadali at hindi kailangan ang TOS
+
+---
 
 📑 **Competencies Covered**
 - Describe and explain the relationships between angle pairs based on their measures.

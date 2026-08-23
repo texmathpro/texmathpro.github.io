@@ -24,7 +24,9 @@ draft: false
 - Ready-to-print exam: sakto sa Budget of Work ang covered topics  
 - Number of days: 25 days  
 - 50-item Multiple Choice test with Answer Key  
-- Para sa teachers na nagmamadali at hindi kailangan ang TOS---
+- Para sa teachers na nagmamadali at hindi kailangan ang TOS
+
+---
 
 📑 **Competencies Covered**
 - Describe and explain the relationships between angle pairs based on their measures.
