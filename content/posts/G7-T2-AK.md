@@ -1,6 +1,6 @@
 ---
 title: "2nd Term Activity Answer Keys for Grade 7"
-date: 2026-06-03
+date: 2026-09-03
 productId: "G7-T2-AK"
 photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1788323365/t7oohow4h6hdk0okxogv.jpg"
