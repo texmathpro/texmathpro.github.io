@@ -7,7 +7,7 @@ photos:
 priceRegular: 240.0
 priceDiscounted: 72.0
 isDiscounted: true
-discountedUntil: "2026-06-03"
+discountedUntil: "2026-09-16"
 draft: false
 ---
 
