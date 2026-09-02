@@ -11,7 +11,7 @@ discountedUntil: "2026-06-03"
 draft: false
 ---
 
-*Tinatamad ka ba, walang time, o nahihirapang gumawa ng Activity Answer Keys mo para sa Second Term ,Grade 7 KasaMath? Kuha ka na ng Activity Answer Keys!*
+*Tinatamad ka ba, walang time, o nahihirapang gumawa ng Activity Answer Keys mo para sa Second Term, Grade 7 KasaMath? Kuha ka na ng Activity Answer Keys!*
 
 **Bakit perfect para sa’yo ang Activity Answer Keys?**
 - Tipid ka sa oras dahil di mo na kailangang sagutan ang activities habang sumasagot ang mga estudyante. 
@@ -19,8 +19,6 @@ draft: false
 - Di na sumakit ang ulo mo sa checking ng activities dahil mga bata na ang magchecheck. 
 
 - Iwas cheating sa mga bata dahil madali mong makikita kung kinokopya nila ang sagot habang nagchecheck. 
-
----
 
  **Product Details**:
 - Pieces: 24 keys, one for each lesson
