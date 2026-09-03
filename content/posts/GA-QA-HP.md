@@ -26,10 +26,7 @@ Kung gusto mo namang suportahan ang mission ko na pagbibigay ng FREE Math teachi
 
 ## 📥 Download the Handouts
 
-- [Grade 7 Handouts for the 1st Term](https://drive.google.com/file/d/150NUP_Nq2tev-Qn00VInZTAaPrUAssmQ/view?usp=drivesdk)
-- [Grade 9 Handouts for the 1st Term](https://drive.google.com/file/d/1x4fsJFRIZ1vsqPk6OXbzsGErE1XdDNJQ/view?usp=drivesdk)
-- [Grade 7 Handouts for the 2nd Term](https://drive.google.com/file/d/1-KDJsZditKS4m47wiWkkrUHdmr6OGHRS/view?usp=drivesdk)
-- [Grade 9 Handouts for the 2nd Term](https://drive.google.com/file/d/1Sexvkd9dP3KgRRDBi9fhJmF5IWzaZcFi/view?usp=drivesdk)
+
 
 ---
 
