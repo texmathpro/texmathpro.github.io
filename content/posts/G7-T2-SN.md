@@ -11,9 +11,9 @@ discountedUntil: "2026-09-16"
 draft: false
 ---
 
-*Tamad ba magsulat ng Second Term lessons ang Grade 7 students mo, KasaMath? Kuha ka na ng Comprehensive Study Notes!
+*Tamad ba magsulat ng Second Term lessons ang Grade 7 students mo, KasaMath? Kuha ka na ng Comprehensive Study Notes!*
 
-***Bakit perfect para sa’yo ang Comprehensive Study Notes?**
+**Bakit perfect para sa’yo ang Comprehensive Study Notes?**
 - Zero Prep Time: Di mo kailangan magpuyat kaka-prepare ng ipapasulat mo.
 - Plug-and-Play: Ready to print na bilang handouts, exam reviewers, o activity sheets.
 - Publication-Quality: Malinis at maganda ang pagkaka-typeset ng Math formulas, tables, at symbols
@@ -45,7 +45,7 @@ Mag-send ka lang ng ₱90 para sa **Comprehensive Study Notes**.
 Isesend ko ang files sa email address mo after ng payment. 
 
 ### Delivery Includes:
-- **Comprehensive Study Notes**  
+- 18 Comprehensive Study Notes 
 - Format: PDF
 
 ---
