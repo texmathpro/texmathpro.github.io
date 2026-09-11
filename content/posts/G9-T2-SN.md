@@ -1,5 +1,5 @@
 ---
-title: "2nd Term Comprehensive Study Notes for Grade 7"
+title: "2nd Term Comprehensive Study Notes for Grade 9"
 date: 2026-09-03
 productId: "G9-T2-SN"
 photos:
