@@ -31,7 +31,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱80 para sa **Comprehensive Study Notes**. 
+Mag-send ka lang ng ₱160 para sa **Comprehensive Study Notes**. 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
 - **Maya**: 09128389571 (Jonathan Bacolod)  
