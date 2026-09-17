@@ -9,7 +9,7 @@ PDF files designed for printing and digital use.
 Instant digital delivery after purchase through email.
 
 ## Are these aligned to standards?
-MELCs and MATATAG curriculum are used as bases for the materials.
+The latest updated curriculum is used as base for the materials.
 
 ## Can I use these in my classroom?
 Yes. Classroom use is permitted.
