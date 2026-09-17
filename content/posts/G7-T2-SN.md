@@ -23,7 +23,7 @@ draft: false
 - Pieces: 18 notes, one for each competency
 - Dimensions: A4 bond paper
 - Format: PDF
-- Price: ₱90
+- Price: ₱180
 
 ---
 ## Step 1: I-fill out at i-submit ang Order Form.{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-t2-sn" height="850" >}}
