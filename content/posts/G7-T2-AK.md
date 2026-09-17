@@ -6,7 +6,7 @@ photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1788323365/t7oohow4h6hdk0okxogv.jpg"
 priceRegular: 240.0
 priceDiscounted: 72.0
-isDiscounted: true
+isDiscounted: false
 discountedUntil: "2026-09-16"
 draft: false
 ---
@@ -16,8 +16,6 @@ draft: false
 **Bakit perfect para sa’yo ang Activity Answer Keys?**
 - Tipid ka sa oras dahil di mo na kailangang sagutan ang activities habang sumasagot ang mga estudyante. 
 
-- Tipid ka rin sa pera dahil discounted (Early Bird Promo)!
-
 - Di na sumakit ang ulo mo sa checking ng activities dahil mga bata na ang magchecheck. 
 
 - Iwas cheating sa mga bata dahil madali mong makikita kung kinokopya nila ang sagot habang nagchecheck. 
@@ -26,7 +24,7 @@ draft: false
 - Pieces: 24 keys, one for each lesson
 - Dimensions: A4 bond paper
 - Format: PDF, created using LaTeX
-- Price: ₱72
+- Price: ₱240
 
 ---
 
@@ -38,7 +36,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱72 para sa **Activity Answer Keys**. 
+Mag-send ka lang ng ₱240 para sa **Activity Answer Keys**. 
 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  

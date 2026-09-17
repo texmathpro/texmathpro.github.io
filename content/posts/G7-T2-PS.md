@@ -17,7 +17,7 @@ photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1789124462/iembev4wsxwznuwmx9u0.png"
 priceRegular: 240.0
 priceDiscounted: 120.0
-isDiscounted: true
+isDiscounted: false
 discountedUntil: "2026-09-16"
 draft: false
 ---
@@ -32,12 +32,11 @@ draft: false
 - Student-Friendly: Visual at madaling sundan kahit habang nagdi-discuss ang teacher.
 - More Teaching, Less Typing: Wala nang ilang oras na paggawa ng slides from scratch.
 - Editable PPTX: I-customize mo para sa style at needs ng klase mo.
-- Super Tipid pa dahil Early Bird ka! 
 
 **Product Details**:
 - Pieces: 24 slides, one for each lesson
 - Format: pptx
-- Price: ₱120
+- Price: ₱240
 
 ---
 ## Step 1: I-fill out at i-submit ang Order Form.{{< iframe src="https://cityofsmiles.github.io/auto-order-form/?id=g7-t2-ps" height="850" >}}
@@ -45,7 +44,7 @@ draft: false
 
 ### Payment Methods
 
-Mag-send ka lang ng ₱120 para sa **Ready-to-Teach PowerPoint Slides**. 
+Mag-send ka lang ng ₱240 para sa **Ready-to-Teach PowerPoint Slides**. 
 - **Landbank**: 0695077289 (Jonathan R. Bacolod)  
 - **GCash**: 09128389571 (Jonathan Bacolod)  
 - **Maya**: 09128389571 (Jonathan Bacolod)  

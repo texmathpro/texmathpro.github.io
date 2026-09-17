@@ -6,7 +6,7 @@ photos:
   - "https://res.cloudinary.com/dadubemrv/image/upload/v1789093364/d294yhizyzhlnrbjm9v8.jpg"
 priceRegular: 160.0
 priceDiscounted: 80.0
-isDiscounted: true
+isDiscounted: false
 discountedUntil: "2026-09-16"
 draft: false
 ---
@@ -18,7 +18,6 @@ draft: false
 - Plug-and-Play: Ready to print na bilang handouts, exam reviewers, o activity sheets.
 - Publication-Quality: Malinis at maganda ang pagkaka-typeset ng Math formulas, tables, at symbols
 - Curriculum-Aligned: Pasok sa DBOW Competencies ang contents
-- Super tipid dahil Early Bird ka
 
 **Product Details**:
 - Pieces: 16 notes, one for each competency
